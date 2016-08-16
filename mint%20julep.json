@@ -1,0 +1,3490 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "oU8DooUUrHo",
+"type": "youtube"
+},
+{
+"video": "georgia-mint-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "brandy",
+"id": "apricot-brandy",
+"text": "3 Parts [Apricot Brandy]",
+"textPlain": "3 Parts Apricot Brandy"
+},
+{
+"type": "brandy",
+"id": "brandy",
+"text": "3 Parts [Brandy]",
+"textPlain": "3 Parts Brandy"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "5 Leaves [Mint Leaf]",
+"textPlain": "5 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "georgia-mint-julep",
+"name": "Georgia Mint Julep",
+"descriptionPlain": "Fill a chilled highball glass with crushed ice. Add all ingredients. Garnish with mint leaf."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf], [sugar, superfine|Ingredient|sugar-superfine] and [lemon|Ingredient|lemon] in a [shaker|Tool|boston-shaker]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes].",
+"story": "",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "RJMEIkQk4ag",
+"type": "youtube"
+},
+{
+"video": "absolut-mint-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+},
+{
+"type": "others",
+"id": "sugar-superfine",
+"text": "1 Teaspoon [Sugar, Superfine]",
+"textPlain": "1 Teaspoon Sugar, Superfine"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "2 Quarters [Lemon]",
+"textPlain": "2 Quarters Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-mint-julep",
+"name": "Absolut Mint Julep",
+"descriptionPlain": "Muddle mint leaf, sugar, superfine and lemon in a shaker. Fill with crushed ice. Add Absolut Vodka. Shake and strain into a rocks glass filled with ice cubes."
+},
+{
+"description": "[Muddle|Action|muddle] [kiwi|Ingredient|kiwi] and [mint leaf|Ingredient|mint-leaf] in a [shaker|Tool|boston-shaker]. [Add|Action|add] [lime juice|Ingredient|lime-juice], [simple syrup|Ingredient|simple-syrup] and [water|Ingredient|water]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with kiwi and mint leaf.",
+"story": "",
+"color": "Clear",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "qcRKLzHClG8",
+"type": "youtube"
+},
+{
+"video": "kiwi-and-mint-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/1",
+"name": "howto_glass1"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "others",
+"id": "water",
+"text": "4 Parts [Water]",
+"textPlain": "4 Parts Water"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "kiwi",
+"text": "4 Pieces [Kiwi]",
+"textPlain": "4 Pieces Kiwi"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "kiwi-and-mint-julep",
+"name": "Kiwi and Mint Julep",
+"descriptionPlain": "Muddle kiwi and mint leaf in a shaker. Add lime juice, simple syrup and water. Shake and strain into a rocks glass filled with ice cubes. Garnish with kiwi and mint leaf."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf] and [simple syrup|Ingredient|simple-syrup] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [bourbon|Ingredient|bourbon].",
+"story": "The Mint Julep, originally made with bourbon, was detailed in the first definitive guide to cocktails, “Bartender’s Guide: How To Mix Drinks.” The guide was published in 1862 by Jerry Thomas, who was considered the father of American mixology. This drink was also reportedly a favorite of William Faulkner’s.\r\nThis is all to say that we know the Mint Julep was one of the originals. We’ve paired ours with a bowler hat and a fob watch; very 1800s dapper indeed.\r\n\r\n",
+"color": "Green",
+"rating": 80,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ggfKDWlyyfI",
+"type": "youtube"
+},
+{
+"video": "mint-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/1",
+"name": "howto_mashup"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Whiskey"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_Spring_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_green_stpatricks"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_kentucky_derby_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60s_era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_10_basic_mixed_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_bbq_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_prohibition_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "2 Parts [Bourbon]",
+"textPlain": "2 Parts Bourbon"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mint-julep",
+"name": "Mint Julep",
+"descriptionPlain": "Muddle mint leaf and simple syrup in a chilled rocks glass. Fill with crushed ice. Add bourbon."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [green mint liqueur|Ingredient|green-mint-liqueur].",
+"story": "",
+"color": "Green",
+"rating": 10,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "3PxIQSIzxns",
+"type": "youtube"
+},
+{
+"video": "pepparmint-frape.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "spirits-other",
+"id": "green-mint-liqueur",
+"text": "1 Part [Green Mint Liqueur]",
+"textPlain": "1 Part Green Mint Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "pepparmint-frape",
+"name": "Pepparmint Frapé",
+"descriptionPlain": "Fill a chilled rocks glass with crushed ice. Add green mint liqueur."
+},
+{
+"description": "[Fill|Action|fill] a [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "KiJPh9HMQoo",
+"type": "youtube"
+},
+{
+"video": "mint-lemonade.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "others",
+"id": "water",
+"text": "5 Parts [Water]",
+"textPlain": "5 Parts Water"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "2 Parts [Lemon Juice]",
+"textPlain": "2 Parts Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "3 Sprigs [Mint Leaf]",
+"textPlain": "3 Sprigs Mint Leaf"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "3 Slices [Lemon]",
+"textPlain": "3 Slices Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mint-lemonade",
+"name": "Mint Lemonade",
+"descriptionPlain": "Fill a highball glass with ice cubes. Add all ingredients. Stir. Garnish with lemon."
+},
+{
+"description": "[Muddle|Action|muddle] [pineapple|Ingredient|pineapple], [mint leaf|Ingredient|mint-leaf] and [sugar, superfine|Ingredient|sugar-superfine] in a [shaker|Tool|boston-shaker]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [crushed ice|Ingredient|crushed-ice].",
+"story": "",
+"color": "Yellow",
+"rating": 65,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "EnGO6M5qMPQ",
+"type": "youtube"
+},
+{
+"video": "absolut-pineapple-mint.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "fruits",
+"id": "pineapple",
+"text": "6 Pieces [Pineapple]",
+"textPlain": "6 Pieces Pineapple"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+},
+{
+"type": "others",
+"id": "sugar-superfine",
+"text": "1 Teaspoon [Sugar, Superfine]",
+"textPlain": "1 Teaspoon Sugar, Superfine"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-pineapple-mint",
+"name": "Absolut Pineapple Mint",
+"descriptionPlain": "Muddle pineapple, mint leaf and sugar, superfine in a shaker. Add Absolut Vodka. Shake and strain into a rocks glass filled with crushed ice."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf] and [honey|Ingredient|honey] in a [shaker|Tool|boston-shaker]. [Fill|Action|fill] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka], [pomegranate juice|Ingredient|pomegranate-juice] and [grapefruit juice|Ingredient|grapefruit-juice]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes].",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "0RqCJO0rZp0",
+"type": "youtube"
+},
+{
+"video": "absolut-pomegranate-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "5 Parts [Absolut Vodka]",
+"textPlain": "5 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "pomegranate-juice",
+"text": "3 Parts [Pomegranate Juice]",
+"textPlain": "3 Parts Pomegranate Juice"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "3 Parts [Grapefruit Juice]",
+"textPlain": "3 Parts Grapefruit Juice"
+},
+{
+"type": "others",
+"id": "honey",
+"text": "1 Part [Honey]",
+"textPlain": "1 Part Honey"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "4 Leaves [Mint Leaf]",
+"textPlain": "4 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-pomegranate-julep",
+"name": "Absolut Pomegranate Julep",
+"descriptionPlain": "Muddle mint leaf and honey in a shaker. Fill with ice cubes. Add Absolut Vodka, pomegranate juice and grapefruit juice. Shake and strain into a rocks glass filled with ice cubes."
+},
+{
+"description": "[Muddle|Action|muddle] [chocolate liqueur|Ingredient|chocolate-liqueur] and [mint leaf|Ingredient|mint-leaf] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [aged rum from martinique|Ingredient|aged-rum-from-martinique]. [Stir|Action|stir].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "_5K8u6WGBZc",
+"type": "youtube"
+},
+{
+"video": "rumh-chocolate-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "rum",
+"id": "aged-rum-from-martinique",
+"text": "1 Part [Aged Rum From Martinique]",
+"textPlain": "1 Part Aged Rum From Martinique"
+},
+{
+"type": "spirits-other",
+"id": "chocolate-liqueur",
+"text": "1 Part [Chocolate Liqueur]",
+"textPlain": "1 Part Chocolate Liqueur"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "5 Leaves [Mint Leaf]",
+"textPlain": "5 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "rumh-chocolate-julep",
+"name": "Rumh Chocolate Julep",
+"descriptionPlain": "Muddle chocolate liqueur and mint leaf in a chilled rocks glass. Fill with crushed ice. Add aged rum from martinique. Stir."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf] and [chocolate liqueur|Ingredient|chocolate-liqueur] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [aged rum from martinique|Ingredient|aged-rum-from-martinique]. [Stir|Action|stir].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "NRyPKH5d2_s",
+"type": "youtube"
+},
+{
+"video": "ruml-chocolate-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "rum",
+"id": "aged-rum-from-martinique",
+"text": "1 Part [Aged Rum From Martinique]",
+"textPlain": "1 Part Aged Rum From Martinique"
+},
+{
+"type": "spirits-other",
+"id": "chocolate-liqueur",
+"text": "1 Part [Chocolate Liqueur]",
+"textPlain": "1 Part Chocolate Liqueur"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "5 Pieces [Mint Leaf]",
+"textPlain": "5 Pieces Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "ruml-chocolate-julep",
+"name": "Ruml Chocolate Julep",
+"descriptionPlain": "Muddle mint leaf and chocolate liqueur in a chilled rocks glass. Fill with crushed ice. Add aged rum from martinique. Stir."
+},
+{
+"description": "[Muddle|Action|muddle] [basil|Ingredient|basil], [lime|Ingredient|lime], [mint leaf|Ingredient|mint-leaf] and [simple syrup|Ingredient|simple-syrup] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [light rum|Ingredient|light-rum] and [lime juice|Ingredient|lime-juice]. [Top up|Action|topup] with [soda water|Ingredient|soda-water].",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ZSTjLWPHMkA",
+"type": "youtube"
+},
+{
+"video": "basil-mint-mojito.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "2 Parts [Light Rum]",
+"textPlain": "2 Parts Light Rum"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spices-herbs",
+"id": "basil",
+"text": "3 Leaves [Basil]",
+"textPlain": "3 Leaves Basil"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "3 Leaves [Mint Leaf]",
+"textPlain": "3 Leaves Mint Leaf"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "basil-mint-mojito",
+"name": "Basil-mint Mojito",
+"descriptionPlain": "Muddle basil, lime, mint leaf and simple syrup in a chilled rocks glass. Fill with crushed ice. Add light rum and lime juice. Top up with soda water."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with a maraschino berry, mint leaf and pineapple.",
+"story": "",
+"color": "Brown",
+"rating": 25,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "pZjK4nowVsU",
+"type": "youtube"
+},
+{
+"video": "tuxedo-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "3 Parts [Bourbon]",
+"textPlain": "3 Parts Bourbon"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "1 Part [Light Rum]",
+"textPlain": "1 Part Light Rum"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "5 Leaves [Mint Leaf]",
+"textPlain": "5 Leaves Mint Leaf"
+},
+{
+"type": "fruits",
+"id": "pineapple",
+"text": "1 Slice [Pineapple]",
+"textPlain": "1 Slice Pineapple"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tuxedo-julep",
+"name": "Tuxedo Julep",
+"descriptionPlain": "Fill a chilled rocks glass with crushed ice. Add all ingredients. Garnish with a maraschino berry, mint leaf and pineapple."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a chocolate.",
+"story": "",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "8P3z_aPRaHM",
+"type": "youtube"
+},
+{
+"video": "absolut-mint-chocolate-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "white-chocolate-liqueur",
+"text": "1 Part [White Chocolate Liqueur]",
+"textPlain": "1 Part White Chocolate Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "creme-de-menthe-white",
+"text": "1 Dash [Crème De Menthe, White]",
+"textPlain": "1 Dash Crème De Menthe, White"
+},
+{
+"type": "others",
+"id": "chocolate",
+"text": "1 Piece [Chocolate]",
+"textPlain": "1 Piece Chocolate"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-mint-chocolate-martini",
+"name": "Absolut Mint Chocolate Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a chocolate."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Clear",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "hGO--H4NhaM",
+"type": "youtube"
+},
+{
+"video": "chocolate-mint-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "spirits-other",
+"id": "white-chocolate-liqueur",
+"text": "2 Parts [White Chocolate Liqueur]",
+"textPlain": "2 Parts White Chocolate Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "creme-de-menthe-white",
+"text": "1 Part [Crème De Menthe, White]",
+"textPlain": "1 Part Crème De Menthe, White"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "chocolate-mint-martini",
+"name": "Chocolate Mint Martini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Stir|Action|stir]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Clear",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "WoR7ATG7V2w",
+"type": "youtube"
+},
+{
+"video": "gin-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "gin",
+"id": "gin",
+"text": "2 Parts [Gin]",
+"textPlain": "2 Parts Gin"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "½ Part [Simple Syrup]",
+"textPlain": "½ Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "gin-julep",
+"name": "Gin Julep",
+"descriptionPlain": "Fill a chilled rocks glass with crushed ice. Add all ingredients. Stir. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Clear",
+"rating": 40,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "_t0LAqldBOU",
+"type": "youtube"
+},
+{
+"video": "absolut-vanilia-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vanilia",
+"text": "1 Part [Absolut Vanilia]",
+"textPlain": "1 Part Absolut Vanilia"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Dash [Lime Juice]",
+"textPlain": "1 Dash Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Dash [Simple Syrup]",
+"textPlain": "1 Dash Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "6 Leaves [Mint Leaf]",
+"textPlain": "6 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-vanilia-julep",
+"name": "Absolut Vanilia Julep",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "kB-9z9P05sc",
+"type": "youtube"
+},
+{
+"video": "absolut-minty-sweety.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-citron",
+"text": "2 Parts [Absolut Citron]",
+"textPlain": "2 Parts Absolut Citron"
+},
+{
+"type": "spirits-other",
+"id": "galliano",
+"text": "1 Part [Galliano]",
+"textPlain": "1 Part Galliano"
+},
+{
+"type": "mixers",
+"id": "mint-iced-tea",
+"text": "1 Part [Mint Iced Tea]",
+"textPlain": "1 Part Mint Iced Tea"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Peel [Lemon]",
+"textPlain": "1 Peel Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-minty-sweety",
+"name": "Absolut Minty Sweety",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with lemon."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf], [simple syrup|Ingredient|simple-syrup] and [lemon juice|Ingredient|lemon-juice] in a [shaker|Tool|boston-shaker]. [Add|Action|add] [Absolut Citron|Ingredient|absolut-citron]. [Fill|Action|fill] with [ice cubes|Ingredient|ice-cubes]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [soda water|Ingredient|soda-water]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "W0A8ibSdftU",
+"type": "youtube"
+},
+{
+"video": "absolut-citron-julep.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/1",
+"name": "howto_glass1"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Sweet"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-citron",
+"text": "2 Parts [Absolut Citron]",
+"textPlain": "2 Parts Absolut Citron"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "¾ Part [Lemon Juice]",
+"textPlain": "¾ Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "1 Splash [Soda Water]",
+"textPlain": "1 Splash Soda Water"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "5 Sprigs [Mint Leaf]",
+"textPlain": "5 Sprigs Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-citron-julep",
+"name": "Absolut Citron Julep",
+"descriptionPlain": "Muddle mint leaf, simple syrup and lemon juice in a shaker. Add Absolut Citron. Fill with ice cubes. Shake and strain into a rocks glass filled with ice cubes. Add soda water. Garnish with mint leaf."
+},
+{
+"description": "[Muddle|Action|muddle] [strawberry|Ingredient|strawberry], [simple syrup|Ingredient|simple-syrup], [mint leaf|Ingredient|mint-leaf] and [lime|Ingredient|lime] in a chilled [highball glass|Glass|highball-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [Absolut Peppar|Ingredient|absolut-peppar]. [Stir|Action|stir].",
+"story": "",
+"color": "Brown",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "-LQZF6anSnQ",
+"type": "youtube"
+},
+{
+"video": "marroccan-mint.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/3138",
+"name": "New drinks"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "vodka",
+"id": "absolut-peppar",
+"text": "5 Parts [Absolut Peppar]",
+"textPlain": "5 Parts Absolut Peppar"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "2 Pieces [Strawberry]",
+"textPlain": "2 Pieces Strawberry"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Pieces [Mint Leaf]",
+"textPlain": "8 Pieces Mint Leaf"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "4 Pieces [Lime]",
+"textPlain": "4 Pieces Lime"
+}
+],
+"tastes": [
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "marroccan-mint",
+"name": "Marroccan Mint",
+"descriptionPlain": "Muddle strawberry, simple syrup, mint leaf and lime in a chilled highball glass. Fill with crushed ice. Add Absolut Peppar. Stir."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf], [sugar, superfine|Ingredient|sugar-superfine] and [lemon|Ingredient|lemon] in a [shaker|Tool|boston-shaker]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes].",
+"story": "",
+"color": "Green",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "PM9vHOw8ZaI",
+"type": "youtube"
+},
+{
+"video": "absolut-mint.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/1",
+"name": "cat_green_stpatricks"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "8 Leaves [Mint Leaf]",
+"textPlain": "8 Leaves Mint Leaf"
+},
+{
+"type": "others",
+"id": "sugar-superfine",
+"text": "1 Teaspoon [Sugar, Superfine]",
+"textPlain": "1 Teaspoon Sugar, Superfine"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "2 Quarters [Lemon]",
+"textPlain": "2 Quarters Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-mint",
+"name": "Absolut Mint",
+"descriptionPlain": "Muddle mint leaf, sugar, superfine and lemon in a shaker. Fill with crushed ice. Add Absolut Vodka. Shake and strain into a rocks glass filled with ice cubes."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Green",
+"rating": 22,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "bFjx1Ff136U",
+"type": "youtube"
+},
+{
+"video": "mint-scotch-cocktail.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_green_stpatricks"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "scotch-whisky",
+"text": "2 Parts [Scotch Whisky]",
+"textPlain": "2 Parts Scotch Whisky"
+},
+{
+"type": "spirits-other",
+"id": "anisette",
+"text": "1 Part [Anisette]",
+"textPlain": "1 Part Anisette"
+},
+{
+"type": "spirits-other",
+"id": "green-mint-liqueur",
+"text": "1 Part [Green Mint Liqueur]",
+"textPlain": "1 Part Green Mint Liqueur"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "1 Dash [Bitters]",
+"textPlain": "1 Dash Bitters"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mint-scotch-cocktail",
+"name": "Mint Scotch Cocktail",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mango and mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 55,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "FQzxnGmRgxY",
+"type": "youtube"
+},
+{
+"video": "frozen-mango-and-mint-spiced-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "howto_freeze"
+},
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "spiced-rum",
+"text": "4 Parts [Spiced Rum]",
+"textPlain": "4 Parts Spiced Rum"
+},
+{
+"type": "mixers",
+"id": "mango-puree",
+"text": "3 Parts [Mango Puree]",
+"textPlain": "3 Parts Mango Puree"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "mango",
+"text": "1 Slice [Mango]",
+"textPlain": "1 Slice Mango"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "1 Leaf [Mint Leaf]",
+"textPlain": "1 Leaf Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-mango-and-mint-spiced-daiquiri",
+"name": "Frozen Mango And Mint Spiced Daiquiri",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled cocktail glass. Garnish with mango and mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "CSkOMNkU_0A",
+"type": "youtube"
+},
+{
+"video": "frozen-raspberry-mint.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "berries",
+"id": "raspberry",
+"text": "20 Whole [Raspberries]",
+"textPlain": "20 Whole Raspberries"
+},
+{
+"type": "others",
+"id": "sugar-superfine",
+"text": "2 Teaspoons [Sugar, Superfine]",
+"textPlain": "2 Teaspoons Sugar, Superfine"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "4 Leaves [Mint Leaf]",
+"textPlain": "4 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-raspberry-mint",
+"name": "Frozen Raspberry Mint",
+"descriptionPlain": "Fill a blender with crushed ice. Add all ingredients. Blend and pour into a cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ZJ4kaSKyDQw",
+"type": "youtube"
+},
+{
+"video": "mint-tequila.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "3 Parts [Tequila]",
+"textPlain": "3 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "6 Leaves [Mint Leaf]",
+"textPlain": "6 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mint-tequila",
+"name": "Mint Tequila",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with mint leaf."
+},
+{
+"description": "[Muddle|Action|muddle] [mint leaf|Ingredient|mint-leaf] in a [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [simple syrup|Ingredient|simple-syrup] and [Absolut Oak|Ingredient|absolut-oak]. [Stir|Action|stir]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "vodka",
+"id": "absolut-oak",
+"text": "5 Parts [Absolut Oak]",
+"textPlain": "5 Parts Absolut Oak"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "15 Leaves [Mint Leaf]",
+"textPlain": "15 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "oak-julep",
+"name": "Oak Julep",
+"descriptionPlain": "Muddle mint leaf in a rocks glass. Fill with crushed ice. Add simple syrup and Absolut Oak. Stir. Garnish with mint leaf."
+}
+],
+"totalResult": 25
+}

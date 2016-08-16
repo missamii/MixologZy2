@@ -1,0 +1,452 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Cilantro|Ingredient|absolut-cilantro], [grapefruit juice|Ingredient|grapefruit-juice] and [lime juice|Ingredient|lime-juice]. [Shake|Action|shake] and [strain|Action|strain] into a [highball glass|Glass|highball-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Top up|Action|topup] with [grapefruit soda|Ingredient|grapefruit-soda]. [Garnish|Action|garnish] with grapefruit.",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "a5qF3-HliPE",
+"type": "youtube"
+},
+{
+"video": "absolut-cilantro-paloma.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_friends"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-cilantro",
+"text": "1 Part [Absolut Cilantro]",
+"textPlain": "1 Part Absolut Cilantro"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "1 Splash [Grapefruit Juice]",
+"textPlain": "1 Splash Grapefruit Juice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Splash [Lime Juice]",
+"textPlain": "1 Splash Lime Juice"
+},
+{
+"type": "mixers",
+"id": "grapefruit-soda",
+"text": "[Grapefruit Soda]",
+"textPlain": "Grapefruit Soda"
+},
+{
+"type": "fruits",
+"id": "grapefruit",
+"text": "1 Wedge [Grapefruit]",
+"textPlain": "1 Wedge Grapefruit"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-cilantro-paloma",
+"name": "Absolut Cilantro Paloma",
+"descriptionPlain": "Fill a shaker with ice cubes. Add Absolut Cilantro, grapefruit juice and lime juice. Shake and strain into a highball glass filled with ice cubes. Top up with grapefruit soda. Garnish with grapefruit."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Gräpe|Ingredient|absolut-grape] and [ruby grapefruit juice|Ingredient|ruby-grapefruit-juice]. [Shake|Action|shake] and [strain|Action|strain] into a [highball glass|Glass|highball-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Top up|Action|topup] with [soda water|Ingredient|soda-water]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "nxMvUU-2iOw",
+"type": "youtube"
+},
+{
+"video": "absolut-grapevine-paloma.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-grape",
+"text": "1½ Parts [Absolut Gräpe]",
+"textPlain": "1½ Parts Absolut Gräpe"
+},
+{
+"type": "mixers",
+"id": "ruby-grapefruit-juice",
+"text": "3 Parts [Ruby Grapefruit Juice]",
+"textPlain": "3 Parts Ruby Grapefruit Juice"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wheel [Lime]",
+"textPlain": "1 Wheel Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-grape-paloma",
+"name": "Absolut Gräpe Paloma",
+"descriptionPlain": "Fill a shaker with ice cubes. Add Absolut Gräpe and ruby grapefruit juice. Shake and strain into a highball glass filled with ice cubes. Top up with soda water. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [tequila|Ingredient|tequila], [agave nectar|Ingredient|agave-nectar] and [pink grapefruit juice|Ingredient|pink-grapefruit-juice]. [Top up|Action|topup] with [soda water|Ingredient|soda-water]. [Stir|Action|stir].",
+"story": "",
+"color": "Pink",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "2y6ZP1d18BU",
+"type": "youtube"
+},
+{
+"video": "paloma.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_friends"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_red_and_blue_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_sophisticated_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_easy_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "pink-grapefruit-juice",
+"text": "2 Parts [Pink Grapefruit Juice]",
+"textPlain": "2 Parts Pink Grapefruit Juice"
+},
+{
+"type": "mixers",
+"id": "agave-nectar",
+"text": "1 Part [Agave Nectar]",
+"textPlain": "1 Part Agave Nectar"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "paloma",
+"name": "Paloma",
+"descriptionPlain": "Fill a highball glass with ice cubes. Add tequila, agave nectar and pink grapefruit juice. Top up with soda water. Stir."
+}
+],
+"totalResult": 3
+}

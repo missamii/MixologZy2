@@ -1,0 +1,193 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [campari|Ingredient|campari] and [vermouth, sweet|Ingredient|vermouth-sweet]. [Top up|Action|topup] with [soda water|Ingredient|soda-water]. [Garnish|Action|garnish] with lemon and orange.",
+"story": "",
+"color": "Red",
+"rating": 80,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "rZmT8x48Qig",
+"type": "youtube"
+},
+{
+"video": "americano.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/385",
+"name": "Top 25"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_4th_of_July_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_italian_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_easy_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "campari",
+"text": "1 Part [Campari]",
+"textPlain": "1 Part Campari"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Slice [Lemon]",
+"textPlain": "1 Slice Lemon"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Slice [Orange]",
+"textPlain": "1 Slice Orange"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "americano",
+"name": "Americano",
+"descriptionPlain": "Fill a chilled rocks glass with ice cubes. Add campari and vermouth, sweet. Top up with soda water. Garnish with lemon and orange."
+}
+],
+"totalResult": 1
+}

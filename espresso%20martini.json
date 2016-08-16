@@ -1,0 +1,3619 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with coffee bean.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "NZKfdGQpu-8",
+"type": "youtube"
+},
+{
+"video": "vanilia-espresso-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vanilia",
+"text": "2 Parts [Absolut Vanilia]",
+"textPlain": "2 Parts Absolut Vanilia"
+},
+{
+"type": "spirits-other",
+"id": "kahlua",
+"text": "1 Part [Kahlúa]",
+"textPlain": "1 Part Kahlúa"
+},
+{
+"type": "others",
+"id": "espresso",
+"text": "1 Part [Espresso]",
+"textPlain": "1 Part Espresso"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "¼ Part [Simple Syrup]",
+"textPlain": "¼ Part Simple Syrup"
+},
+{
+"type": "others",
+"id": "coffee-bean",
+"text": "3 Whole [Coffee Bean]",
+"textPlain": "3 Whole Coffee Bean"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "vanilia-espresso-martini",
+"name": "Vanilia Espresso Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a cocktail glass. Garnish with coffee bean."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with coffee bean.",
+"story": "",
+"color": "Brown",
+"rating": 100,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "absolut-vanilia-espresso-martini.mp4",
+"type": "assets"
+},
+{
+"video": "bJTrR3D5ld8",
+"type": "youtube"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vanilia",
+"text": "2 Parts [Absolut Vanilia]",
+"textPlain": "2 Parts Absolut Vanilia"
+},
+{
+"type": "spirits-other",
+"id": "kahlua",
+"text": "1 Part [Kahlúa]",
+"textPlain": "1 Part Kahlúa"
+},
+{
+"type": "others",
+"id": "espresso",
+"text": "1 Part [Espresso]",
+"textPlain": "1 Part Espresso"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Dash [Simple Syrup]",
+"textPlain": "1 Dash Simple Syrup"
+},
+{
+"type": "others",
+"id": "coffee-bean",
+"text": "3 Whole [Coffee Bean]",
+"textPlain": "3 Whole Coffee Bean"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-vanilia-espresso-martini",
+"name": "Absolut vanilia espresso martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a cocktail glass. Garnish with coffee bean."
+},
+{
+"description": "How to create a simple and delicious Espresso Martini. Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass.",
+"story": "The famous Espresso Martini is a top drink and a classic Kahlua cocktail. Invented by the famous late bartender Dick Bradsell, as a peculiar request from a British top model in his London bar in 1984. The Espresso Martini is a cocktail with a story, a history and a legacy.",
+"color": "Brown",
+"rating": 70,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "hWd_jW2hrY4",
+"type": "youtube"
+},
+{
+"video": "espresso-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/385",
+"name": "Top 25"
+},
+{
+"owner": "apps/1",
+"name": "howto_prepared"
+},
+{
+"owner": "apps/1",
+"name": "art_gathering"
+},
+{
+"owner": "apps/1",
+"name": "popular"
+},
+{
+"owner": "apps/225",
+"name": "Coll_martini"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "kahlua",
+"text": "1 Part [Kahlúa]",
+"textPlain": "1 Part Kahlúa"
+},
+{
+"type": "mixers",
+"id": "espresso-coffee-cold",
+"text": "1 Part [Espresso Coffee (Cold)]",
+"textPlain": "1 Part Espresso Coffee (Cold)"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "½ Part [Simple Syrup]",
+"textPlain": "½ Part Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "espresso-martini",
+"name": "Espresso Martini",
+"descriptionPlain": "How to create a simple and delicious Espresso Martini. Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with blueberry.",
+"story": "",
+"color": "Red",
+"rating": 36,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "6pDVwKBXQPI",
+"type": "youtube"
+},
+{
+"video": "blue-raspberry-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "3 Parts [Lime Juice]",
+"textPlain": "3 Parts Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "blueberry-liqueur",
+"text": "2 Parts [Blueberry Liqueur]",
+"textPlain": "2 Parts Blueberry Liqueur"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "others",
+"id": "water",
+"text": "1 Part [Water]",
+"textPlain": "1 Part Water"
+},
+{
+"type": "berries",
+"id": "blueberry",
+"text": "3 On Cocktail Sticks [Blueberries]",
+"textPlain": "3 On Cocktail Sticks Blueberries"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "blue-raspberry-martini",
+"name": "Blue Raspberry Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with blueberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mango.",
+"story": "",
+"color": "Yellow",
+"rating": 68,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "exlhS53thj8",
+"type": "youtube"
+},
+{
+"video": "maartens-mango-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "mango-puree",
+"text": "1 Part [Mango Puree]",
+"textPlain": "1 Part Mango Puree"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "1 Part [Grapefruit Juice]",
+"textPlain": "1 Part Grapefruit Juice"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "2 Splashes [Triple Sec]",
+"textPlain": "2 Splashes Triple Sec"
+},
+{
+"type": "fruits",
+"id": "mango",
+"text": "1 Slice [Mango]",
+"textPlain": "1 Slice Mango"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "maartens-mango-martini",
+"name": "Maartens Mango Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with mango."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with blueberry.",
+"story": "",
+"color": "Purple",
+"rating": 46,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "A0Bxr638AEo",
+"type": "youtube"
+},
+{
+"video": "blueberry-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "howto_prepared"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "blueberry-liqueur",
+"text": "1 Part [Blueberry Liqueur]",
+"textPlain": "1 Part Blueberry Liqueur"
+},
+{
+"type": "others",
+"id": "water",
+"text": "1 Part [Water]",
+"textPlain": "1 Part Water"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+},
+{
+"type": "berries",
+"id": "blueberry",
+"text": "3 On Cocktail Sticks [Blueberries]",
+"textPlain": "3 On Cocktail Sticks Blueberries"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "blueberry-martini",
+"name": "Blueberry Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with blueberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "lj-OzWMTwQ4",
+"type": "youtube"
+},
+{
+"video": "snickers-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "hazelnut-liqueur",
+"text": "2 Parts [Hazelnut Liqueur]",
+"textPlain": "2 Parts Hazelnut Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "white-cacao-liqueur",
+"text": "2 Parts [White Cacao Liqueur]",
+"textPlain": "2 Parts White Cacao Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "cream-liqueur",
+"text": "1 Part [Cream Liqueur]",
+"textPlain": "1 Part Cream Liqueur"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "snickers-martini",
+"name": "Snickers Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "PoNlpZSQxHQ",
+"type": "youtube"
+},
+{
+"video": "grannys-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "3 Parts [Light Rum]",
+"textPlain": "3 Parts Light Rum"
+},
+{
+"type": "mixers",
+"id": "apple-juice",
+"text": "4 Parts [Apple Juice]",
+"textPlain": "4 Parts Apple Juice"
+},
+{
+"type": "spirits-other",
+"id": "apple-liqueur",
+"text": "1 Part [Apple Liqueur]",
+"textPlain": "1 Part Apple Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "cinnamon-schnapps-liqueur",
+"text": "1 Part [Cinnamon Schnapps Liqueur]",
+"textPlain": "1 Part Cinnamon Schnapps Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "grannys-martini",
+"name": "Granny’s Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Red",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Dx_ug3hf7Ow",
+"type": "youtube"
+},
+{
+"video": "mae-west-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice",
+"text": "3 Parts [Cranberry Juice]",
+"textPlain": "3 Parts Cranberry Juice"
+},
+{
+"type": "spirits-other",
+"id": "amaretto",
+"text": "1 Part [Amaretto]",
+"textPlain": "1 Part Amaretto"
+},
+{
+"type": "spirits-other",
+"id": "melon-liqueur",
+"text": "1 Splash [Melon Liqueur]",
+"textPlain": "1 Splash Melon Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mae-west-martini",
+"name": "Mae West Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "UMWh4zbqjU0",
+"type": "youtube"
+},
+{
+"video": "polish-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "bison-grass-flavored-vodka",
+"text": "1 Part [Bison Grass Flavored Vodka]",
+"textPlain": "1 Part Bison Grass Flavored Vodka"
+},
+{
+"type": "mixers",
+"id": "apple-juice-fresh-pressed",
+"text": "1 Part [Apple Juice, Fresh Pressed]",
+"textPlain": "1 Part Apple Juice, Fresh Pressed"
+},
+{
+"type": "spirits-other",
+"id": "honey-liqueur",
+"text": "1 Part [Honey Liqueur]",
+"textPlain": "1 Part Honey Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "polish-martini",
+"name": "Polish Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "19YikTdKvj4",
+"type": "youtube"
+},
+{
+"video": "green-tea-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "bison-grass-flavored-vodka",
+"text": "1 Part [Bison Grass Flavored Vodka]",
+"textPlain": "1 Part Bison Grass Flavored Vodka"
+},
+{
+"type": "mixers",
+"id": "apple-juice",
+"text": "1 Part [Apple Juice]",
+"textPlain": "1 Part Apple Juice"
+},
+{
+"type": "spirits-other",
+"id": "green-mint-liqueur",
+"text": "1 Splash [Green Mint Liqueur]",
+"textPlain": "1 Splash Green Mint Liqueur"
+},
+{
+"type": "mixers",
+"id": "green-banana-syrup",
+"text": "1 Splash [Green Banana Syrup]",
+"textPlain": "1 Splash Green Banana Syrup"
+},
+{
+"type": "spirits-other",
+"id": "pisang-ambon",
+"text": "1 Splash [Pisang Ambon]",
+"textPlain": "1 Splash Pisang Ambon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "green-tea-martini",
+"name": "Green Tea Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Red",
+"rating": 54,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "KHaSaKr-jws",
+"type": "youtube"
+},
+{
+"video": "stairs-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice",
+"text": "4 Parts [Cranberry Juice]",
+"textPlain": "4 Parts Cranberry Juice"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "2 Parts [Grapefruit Juice]",
+"textPlain": "2 Parts Grapefruit Juice"
+},
+{
+"type": "mixers",
+"id": "apple-juice-fresh-pressed",
+"text": "1 Part [Apple Juice, Fresh Pressed]",
+"textPlain": "1 Part Apple Juice, Fresh Pressed"
+},
+{
+"type": "mixers",
+"id": "pear-juice",
+"text": "1 Part [Pear Juice]",
+"textPlain": "1 Part Pear Juice"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Splash [Lemon Juice]",
+"textPlain": "1 Splash Lemon Juice"
+},
+{
+"type": "spirits-other",
+"id": "orange-bitters",
+"text": "2 Dashes [Orange Bitters]",
+"textPlain": "2 Dashes Orange Bitters"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "stairs-martini",
+"name": "Stairs Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 34,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Ev4ulovOimE",
+"type": "youtube"
+},
+{
+"video": "pompanski-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "3 Parts [Absolut Vodka]",
+"textPlain": "3 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Dash [Dry Vermouth]",
+"textPlain": "1 Dash Dry Vermouth"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "3 Parts [Grapefruit Juice]",
+"textPlain": "3 Parts Grapefruit Juice"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "pompanski-martini",
+"name": "Pompanski Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with blueberry.",
+"story": "",
+"color": "Purple",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "xSYB__Z6aqo",
+"type": "youtube"
+},
+{
+"video": "brazen-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "bison-grass-flavored-vodka",
+"text": "6 Parts [Bison Grass Flavored Vodka]",
+"textPlain": "6 Parts Bison Grass Flavored Vodka"
+},
+{
+"type": "spirits-other",
+"id": "violet-liqueur",
+"text": "1 Part [Violet Liqueur]",
+"textPlain": "1 Part Violet Liqueur"
+},
+{
+"type": "berries",
+"id": "blueberry",
+"text": "4 On Cocktail Sticks [Blueberries]",
+"textPlain": "4 On Cocktail Sticks Blueberries"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "brazen-martini",
+"name": "Brazen Martini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with blueberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with coffee bean.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "lV-vg-sb5tA",
+"type": "youtube"
+},
+{
+"video": "virgin-espresso.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "mixers",
+"id": "espresso-coffee-cold",
+"text": "4 Parts [Espresso Coffee (Cold)]",
+"textPlain": "4 Parts Espresso Coffee (Cold)"
+},
+{
+"type": "mixers",
+"id": "vanilla-syrup",
+"text": "2 Parts [Vanilla Syrup]",
+"textPlain": "2 Parts Vanilla Syrup"
+},
+{
+"type": "others",
+"id": "water",
+"text": "2 Parts [Water]",
+"textPlain": "2 Parts Water"
+},
+{
+"type": "others",
+"id": "coffee-bean",
+"text": "3 Whole [Coffee Bean]",
+"textPlain": "3 Whole Coffee Bean"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "virgin-espresso",
+"name": "Virgin Espresso",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with coffee bean."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a jalapeno.",
+"story": "",
+"color": "Red",
+"rating": 70,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "AACr7m0Jj7g",
+"type": "youtube"
+},
+{
+"video": "absolut-chocolate-chili-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Peppar"
+},
+{
+"owner": "apps/1",
+"name": "howto_shake"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-peppar",
+"text": "1 Part [Absolut Peppar]",
+"textPlain": "1 Part Absolut Peppar"
+},
+{
+"type": "spirits-other",
+"id": "chocolate-liqueur",
+"text": "1 Part [Chocolate Liqueur]",
+"textPlain": "1 Part Chocolate Liqueur"
+},
+{
+"type": "others",
+"id": "brown-sugar",
+"text": "1 Pinch [Brown Sugar]",
+"textPlain": "1 Pinch Brown Sugar"
+},
+{
+"type": "others",
+"id": "jalapeno",
+"text": "1 Whole [Jalapeno]",
+"textPlain": "1 Whole Jalapeno"
+}
+],
+"tastes": [
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-chocolate-chili-martini",
+"name": "Absolut Chocolate Chili Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a cocktail glass. Garnish with a jalapeno."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a raspberry.",
+"story": "",
+"color": "Yellow",
+"rating": 46,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "bncrepYiYdo",
+"type": "youtube"
+},
+{
+"video": "absolut-grcic-mayday-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-raspberri",
+"text": "4 Parts [Absolut Raspberri]",
+"textPlain": "4 Parts Absolut Raspberri"
+},
+{
+"type": "spirits-other",
+"id": "cinnamon-schnapps-liqueur",
+"text": "2 Parts [Cinnamon Schnapps Liqueur]",
+"textPlain": "2 Parts Cinnamon Schnapps Liqueur"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "2 Parts [Lemon Juice]",
+"textPlain": "2 Parts Lemon Juice"
+},
+{
+"type": "berries",
+"id": "raspberry",
+"text": "1 Whole [Raspberry]",
+"textPlain": "1 Whole Raspberry"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-grcic-mayday-martini",
+"name": "Absolut Grcic Mayday Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a raspberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with strawberry.",
+"story": "",
+"color": "Brown",
+"rating": 60,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "NFC1kkYKSnk",
+"type": "youtube"
+},
+{
+"video": "mayday-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "2 Parts [Lemon Juice]",
+"textPlain": "2 Parts Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "cinnamon-syrup",
+"text": "2 Parts [Cinnamon Syrup]",
+"textPlain": "2 Parts Cinnamon Syrup"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "4 Pieces [Strawberry]",
+"textPlain": "4 Pieces Strawberry"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mayday-martini",
+"name": "Mayday Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with strawberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a chocolate.",
+"story": "",
+"color": "White",
+"rating": 66,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "FTz72m6nBU0",
+"type": "youtube"
+},
+{
+"video": "absolut-chocolate-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "white-chocolate-liqueur",
+"text": "1 Part [White Chocolate Liqueur]",
+"textPlain": "1 Part White Chocolate Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "creme-de-menthe-white",
+"text": "1 Dash [Crème De Menthe, White]",
+"textPlain": "1 Dash Crème De Menthe, White"
+},
+{
+"type": "others",
+"id": "chocolate",
+"text": "1 Piece [Chocolate]",
+"textPlain": "1 Piece Chocolate"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-chocolate-martini",
+"name": "Absolut Chocolate Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a chocolate."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Yellow",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Aw6Mgaj5SCQ",
+"type": "youtube"
+},
+{
+"video": "mayfair-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "2 Parts [Orange Juice]",
+"textPlain": "2 Parts Orange Juice"
+},
+{
+"type": "spirits-other",
+"id": "whisky-honey-liqueur-drambuie",
+"text": "1 Part [Whisky/Honey Liqueur ]",
+"textPlain": "1 Part Whisky/Honey Liqueur "
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mayfair-martini",
+"name": "Mayfair Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "9utcobKUSJ0",
+"type": "youtube"
+},
+{
+"video": "absolut-fuzzy-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-wild-tea",
+"text": "3 Parts [Absolut Wild Tea]",
+"textPlain": "3 Parts Absolut Wild Tea"
+},
+{
+"type": "mixers",
+"id": "peach-puree",
+"text": "2 Parts [Peach Puree]",
+"textPlain": "2 Parts Peach Puree"
+},
+{
+"type": "spirits-other",
+"id": "peach-liqueur",
+"text": "1 Part [Peach Liqueur]",
+"textPlain": "1 Part Peach Liqueur"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "1 Leaf [Mint Leaf]",
+"textPlain": "1 Leaf Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-fuzzy-martini",
+"name": "Absolut Fuzzy Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a cocktail glass. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 52,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "SzSat-B_fOk",
+"type": "youtube"
+},
+{
+"video": "quadruple-orange-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "brandy",
+"id": "orange-flavored-brandy",
+"text": "⅔ Part [Orange Flavored Brandy]",
+"textPlain": "⅔ Part Orange Flavored Brandy"
+},
+{
+"type": "others",
+"id": "egg-white",
+"text": "1 Part [Egg White]",
+"textPlain": "1 Part Egg White"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "⅔ Part [Orange Juice]",
+"textPlain": "⅔ Part Orange Juice"
+},
+{
+"type": "spirits-other",
+"id": "campari",
+"text": "½ Part [Campari]",
+"textPlain": "½ Part Campari"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "quadruple-orange-martini",
+"name": "Quadruple Orange Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Brown",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "8Ler4QyavYQ",
+"type": "youtube"
+},
+{
+"video": "mata-hari-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "3 Parts [Absolut Vodka]",
+"textPlain": "3 Parts Absolut Vodka"
+},
+{
+"type": "rum",
+"id": "spiced-rum",
+"text": "1 Part [Spiced Rum]",
+"textPlain": "1 Part Spiced Rum"
+},
+{
+"type": "spirits-other",
+"id": "hazelnut-liqueur",
+"text": "1 Dash [Hazelnut Liqueur]",
+"textPlain": "1 Dash Hazelnut Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-cordial",
+"text": "1 Dash [Lime Cordial]",
+"textPlain": "1 Dash Lime Cordial"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Twist [Lemon]",
+"textPlain": "1 Twist Lemon"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mata-hari-martini",
+"name": "Mata Hari Martini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with lemon."
+},
+{
+"description": "[Muddle|Action|muddle] [ginger|Ingredient|ginger] in a [shaker|Tool|boston-shaker]. [Fill|Action|fill] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Pears|Ingredient|absolut-pears], [lemon juice|Ingredient|lemon-juice] and [simple syrup|Ingredient|simple-syrup]. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with ginger.",
+"story": "",
+"color": "Yellow",
+"rating": 60,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "OELWHki1RkM",
+"type": "youtube"
+},
+{
+"video": "absolut-gingerpear-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-pears",
+"text": "4 Parts [Absolut Pears]",
+"textPlain": "4 Parts Absolut Pears"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "3 Parts [Simple Syrup]",
+"textPlain": "3 Parts Simple Syrup"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "2 Parts [Lemon Juice]",
+"textPlain": "2 Parts Lemon Juice"
+},
+{
+"type": "spices-herbs",
+"id": "ginger",
+"text": "2 Pieces [Ginger]",
+"textPlain": "2 Pieces Ginger"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-gingerpear-martini",
+"name": "Absolut Gingerpear Martini",
+"descriptionPlain": "Muddle ginger in a shaker. Fill with ice cubes. Add Absolut Pears, lemon juice and simple syrup. Shake and strain into a chilled cocktail glass. Garnish with ginger."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with an almond.",
+"story": "",
+"color": "Yellow",
+"rating": 48,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "VlxUlq0zvhY",
+"type": "youtube"
+},
+{
+"video": "almond-martini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "apple-juice-fresh-pressed",
+"text": "2 Parts [Apple Juice, Fresh Pressed]",
+"textPlain": "2 Parts Apple Juice, Fresh Pressed"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "orgeat-almond-syrup",
+"text": "1 Part [Orgeat Almond Syrup]",
+"textPlain": "1 Part Orgeat Almond Syrup"
+},
+{
+"type": "spirits-other",
+"id": "peach-bitters",
+"text": "2 Dashes [Peach Bitters]",
+"textPlain": "2 Dashes Peach Bitters"
+},
+{
+"type": "others",
+"id": "almond",
+"text": "1 Whole [Almond]",
+"textPlain": "1 Whole Almond"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "almond-martini",
+"name": "Almond Martini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with an almond."
+}
+],
+"totalResult": 128,
+"next": "https://addb.absolutdrinks.com/quickSearch/drinks/espresso%20martini/?apiKey=477a7635dcb248d591a7abdaf035ee32&start=25&pageSize=25"
+}

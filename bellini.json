@@ -1,0 +1,1574 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [blackberry syrup|Ingredient|blackberry-syrup] and [Absolut Kurant|Ingredient|absolut-kurant]. [Stir|Action|stir] and [strain|Action|strain] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [prosecco|Ingredient|prosecco]. [Garnish|Action|garnish] with a blackberry.",
+"story": "",
+"color": "Brown",
+"rating": 51,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "tSAM6dqjvUI",
+"type": "youtube"
+},
+{
+"video": "absolut-blackberry-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "art_holiday"
+},
+{
+"owner": "apps/1",
+"name": "howto_strain"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Kurant"
+},
+{
+"owner": "apps/1",
+"name": "howto_spoon"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-kurant",
+"text": "1 Part [Absolut Kurant]",
+"textPlain": "1 Part Absolut Kurant"
+},
+{
+"type": "mixers",
+"id": "blackberry-syrup",
+"text": "1 Part [Blackberry Syrup]",
+"textPlain": "1 Part Blackberry Syrup"
+},
+{
+"type": "spirits-other",
+"id": "prosecco",
+"text": "[Prosecco]",
+"textPlain": "Prosecco"
+},
+{
+"type": "berries",
+"id": "blackberry",
+"text": "1 Whole [Blackberry]",
+"textPlain": "1 Whole Blackberry"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-blackberry-bellini",
+"name": "Absolut Blackberry Bellini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add blackberry syrup and Absolut Kurant. Stir and strain into a chilled champagne glass. Top up with prosecco. Garnish with a blackberry."
+},
+{
+"description": "[Add|Action|add] all ingredients into a chilled [champagne glass|Glass|champagne-glass].",
+"story": "",
+"color": "Yellow",
+"rating": 78,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "8lJooxdnkUk",
+"type": "youtube"
+},
+{
+"video": "mango-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "3 Parts [Champagne]",
+"textPlain": "3 Parts Champagne"
+},
+{
+"type": "mixers",
+"id": "mango-puree",
+"text": "1 Part [Mango Puree]",
+"textPlain": "1 Part Mango Puree"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mango-bellini",
+"name": "Mango Bellini",
+"descriptionPlain": "Add all ingredients into a chilled champagne glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Mandrin|Ingredient|absolut-mandrin] and [kiwi puree|Ingredient|kiwi-puree]. [Shake|Action|shake] and [strain|Action|strain] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [prosecco|Ingredient|prosecco].",
+"story": "",
+"color": "Yellow",
+"rating": 47,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "rZoFUrtbyac",
+"type": "youtube"
+},
+{
+"video": "absolut-kiwi-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-mandrin",
+"text": "1 Part [Absolut Mandrin]",
+"textPlain": "1 Part Absolut Mandrin"
+},
+{
+"type": "mixers",
+"id": "kiwi-puree",
+"text": "1 Part [Kiwi Puree]",
+"textPlain": "1 Part Kiwi Puree"
+},
+{
+"type": "spirits-other",
+"id": "prosecco",
+"text": "[Prosecco]",
+"textPlain": "Prosecco"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-kiwi-bellini",
+"name": "Absolut Kiwi Bellini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add Absolut Mandrin and kiwi puree. Shake and strain into a chilled champagne glass. Top up with prosecco."
+},
+{
+"description": "[Add|Action|add] [Absolut Apeach|Ingredient|absolut-apeach] and [peach nectar|Ingredient|peach-nectar] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [prosecco|Ingredient|prosecco].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "8nlb4sYboII",
+"type": "youtube"
+},
+{
+"video": "apeach-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-apeach",
+"text": "1 Part [Absolut Apeach]",
+"textPlain": "1 Part Absolut Apeach"
+},
+{
+"type": "mixers",
+"id": "peach-nectar",
+"text": "1 Part [Peach Nectar]",
+"textPlain": "1 Part Peach Nectar"
+},
+{
+"type": "spirits-other",
+"id": "prosecco",
+"text": "[Prosecco]",
+"textPlain": "Prosecco"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "apeach-bellini",
+"name": "Apeach Bellini",
+"descriptionPlain": "Add Absolut Apeach and peach nectar into a chilled champagne glass. Top up with prosecco."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka] and [peach puree|Ingredient|peach-puree]. [Stir|Action|stir] and [strain|Action|strain] into a chilled [wine glass|Glass|wine-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne].",
+"story": "",
+"color": "Brown",
+"rating": 30,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "DCKMdfPnpuI",
+"type": "youtube"
+},
+{
+"video": "absolut-peach-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "peach-puree",
+"text": "1 Part [Peach Puree]",
+"textPlain": "1 Part Peach Puree"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-peach-bellini",
+"name": "Absolut Peach Bellini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add Absolut Vodka and peach puree. Stir and strain into a chilled wine glass. Top up with champagne."
+},
+{
+"description": "[Add|Action|add] [peach nectar|Ingredient|peach-nectar] into a [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [cider|Ingredient|cider].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "Lvcp0a0S-RE",
+"type": "youtube"
+},
+{
+"video": "baby-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Classic1"
+},
+{
+"owner": "apps/225",
+"name": "Coll_nonalco"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "mixers",
+"id": "peach-nectar",
+"text": "1 Part [Peach Nectar]",
+"textPlain": "1 Part Peach Nectar"
+},
+{
+"type": "spirits-other",
+"id": "cider",
+"text": "[Cider]",
+"textPlain": "Cider"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "baby-bellini",
+"name": "Baby Bellini",
+"descriptionPlain": "Add peach nectar into a champagne glass. Top up with cider."
+},
+{
+"description": "[Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka] and [blackberry puree|Ingredient|blackberry-puree] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne]. [Garnish|Action|garnish] with blackberries.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "_FTrEU7g3C0",
+"type": "youtube"
+},
+{
+"video": "blackberry-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "blackberry-puree",
+"text": "1 Part [Blackberry Puree]",
+"textPlain": "1 Part Blackberry Puree"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+},
+{
+"type": "berries",
+"id": "blackberry",
+"text": "2 Whole [Blackberries]",
+"textPlain": "2 Whole Blackberries"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "blackberry-bellini",
+"name": "Blackberry Bellini",
+"descriptionPlain": "Add Absolut Vodka and blackberry puree into a chilled champagne glass. Top up with champagne. Garnish with blackberries."
+},
+{
+"description": "[Add|Action|add] [Absolut Citron|Ingredient|absolut-citron], [sour mix|Ingredient|sour-mix] and [triple sec|Ingredient|triple-sec] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Yellow",
+"rating": 1,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "O0WrCW8XcPk",
+"type": "youtube"
+},
+{
+"video": "absolut-lemoncello-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-citron",
+"text": "1 Part [Absolut Citron]",
+"textPlain": "1 Part Absolut Citron"
+},
+{
+"type": "mixers",
+"id": "sour-mix",
+"text": "1 Part [Sour Mix]",
+"textPlain": "1 Part Sour Mix"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Wedge [Lemon]",
+"textPlain": "1 Wedge Lemon"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-lemoncello-bellini",
+"name": "Absolut Lemoncello Bellini",
+"descriptionPlain": "Add Absolut Citron, sour mix and triple sec into a chilled champagne glass. Top up with champagne. Garnish with lemon."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Citron|Ingredient|absolut-citron] and [raspberry puree|Ingredient|raspberry-puree]. [Stir|Action|stir] and [strain|Action|strain] into a chilled [wine glass|Glass|wine-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "lW6A0OinzMM",
+"type": "youtube"
+},
+{
+"video": "absolut-raspberry-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-citron",
+"text": "1 Part [Absolut Citron]",
+"textPlain": "1 Part Absolut Citron"
+},
+{
+"type": "mixers",
+"id": "raspberry-puree",
+"text": "1 Part [Raspberry Puree]",
+"textPlain": "1 Part Raspberry Puree"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-raspberry-bellini",
+"name": "Absolut Raspberry Bellini",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add Absolut Citron and raspberry puree. Stir and strain into a chilled wine glass. Top up with champagne."
+},
+{
+"description": "[Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka] and [raspberry puree|Ingredient|raspberry-puree] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne]. [Garnish|Action|garnish] with a raspberry.",
+"story": "",
+"color": "Yellow",
+"rating": 69,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "rNTBhzJbXsY",
+"type": "youtube"
+},
+{
+"video": "raspberry-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "art_stocking"
+},
+{
+"owner": "apps/1",
+"name": "howto_glass2"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Romance"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Sweet"
+},
+{
+"owner": "apps/65",
+"name": "nights"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "raspberry-puree",
+"text": "1 Part [Raspberry Puree]",
+"textPlain": "1 Part Raspberry Puree"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+},
+{
+"type": "berries",
+"id": "raspberry",
+"text": "1 Whole [Raspberry]",
+"textPlain": "1 Whole Raspberry"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "raspberry-bellini",
+"name": "Raspberry Bellini",
+"descriptionPlain": "Add Absolut Vodka and raspberry puree into a chilled champagne glass. Top up with champagne. Garnish with a raspberry."
+},
+{
+"description": "How to create the Perfect Bellini. Start by adding Absolut Vodka and peach puree into a chilled champagne glass. Top up with champagne.",
+"story": "\"It has been widely reported that the Bellini got its start in Harry’s Bar in Venice, Italy. That was 70 years ago, and today it’s one of the most classic drinks around. To make peach purée, peel and slice peaches (remove pit; plant pit in backyard) and run through a food processor with simple syrup to taste.\"\r\n",
+"color": "Yellow",
+"rating": 86,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "85pG3nTeF-8",
+"type": "youtube"
+},
+{
+"video": "absolut-bellini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Brunch"
+},
+{
+"owner": "apps/385",
+"name": "Top 25"
+},
+{
+"owner": "apps/1",
+"name": "howto_time"
+},
+{
+"owner": "apps/65",
+"name": "nights"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "peach-puree",
+"text": "1 Part [Peach Puree]",
+"textPlain": "1 Part Peach Puree"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-bellini",
+"name": "Bellini",
+"descriptionPlain": "How to create the Perfect Bellini. Start by adding Absolut Vodka and peach puree into a chilled champagne glass. Top up with champagne."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "rTwBuNZ9p9Q",
+"type": "youtube"
+},
+{
+"video": "bellini-tini.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_italian_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_blended_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_easter_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_10_basic_mixed_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "4 Parts [Absolut Vodka]",
+"textPlain": "4 Parts Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "peach-liqueur",
+"text": "1 Part [Peach Liqueur]",
+"textPlain": "1 Part Peach Liqueur"
+},
+{
+"type": "mixers",
+"id": "white-peach-puree",
+"text": "1 Part [White Peach Puree]",
+"textPlain": "1 Part White Peach Puree"
+},
+{
+"type": "spirits-other",
+"id": "peach-bitters",
+"text": "2 Dashes [Peach Bitters]",
+"textPlain": "2 Dashes Peach Bitters"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "bellini-tini",
+"name": "Bellini-tini",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+}
+],
+"totalResult": 12
+}

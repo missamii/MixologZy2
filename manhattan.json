@@ -1,0 +1,1846 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon and pineapple.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "pCq7pp6BYXk",
+"type": "youtube"
+},
+{
+"video": "caramel-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "irish-whiskey",
+"text": "2 Parts [Irish Whiskey]",
+"textPlain": "2 Parts Irish Whiskey"
+},
+{
+"type": "mixers",
+"id": "pineapple-juice",
+"text": "1 Part [Pineapple Juice]",
+"textPlain": "1 Part Pineapple Juice"
+},
+{
+"type": "mixers",
+"id": "caramel-syrup",
+"text": "¾ Part [Caramel Syrup]",
+"textPlain": "¾ Part Caramel Syrup"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "½ Part [Vermouth, Sweet]",
+"textPlain": "½ Part Vermouth, Sweet"
+},
+{
+"type": "spirits-other",
+"id": "bitter",
+"text": "1 Dash [Bitter]",
+"textPlain": "1 Dash Bitter"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Twist [Lemon]",
+"textPlain": "1 Twist Lemon"
+},
+{
+"type": "fruits",
+"id": "pineapple",
+"text": "1 Wedge [Pineapple]",
+"textPlain": "1 Wedge Pineapple"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "caramel-manhattan",
+"name": "Caramel Manhattan",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lemon and pineapple."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "",
+"color": "Pink",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "-7VyPkuD4Rg",
+"type": "youtube"
+},
+{
+"video": "red-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-kurant",
+"text": "2 Parts [Absolut Kurant]",
+"textPlain": "2 Parts Absolut Kurant"
+},
+{
+"type": "spirits-other",
+"id": "st-raphael",
+"text": "1½ Parts [St. Raphael]",
+"textPlain": "1½ Parts St. Raphael"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "red-manhattan",
+"name": "Red Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with a maraschino berry."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with apple.",
+"story": "",
+"color": "Brown",
+"rating": 23,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "5JI_f01-RSY",
+"type": "youtube"
+},
+{
+"video": "apple-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "2 Parts [Bourbon]",
+"textPlain": "2 Parts Bourbon"
+},
+{
+"type": "spirits-other",
+"id": "apple-liqueur",
+"text": "1 Part [Apple Liqueur]",
+"textPlain": "1 Part Apple Liqueur"
+},
+{
+"type": "fruits",
+"id": "apple",
+"text": "1 Slice [Apple]",
+"textPlain": "1 Slice Apple"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "apple-manhattan",
+"name": "Apple Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with apple."
+},
+{
+"description": "[Add|Action|add] [bitters|Ingredient|bitters], [rye whiskey|Ingredient|rye-whiskey] and [vermouth, sweet|Ingredient|vermouth-sweet] into a chilled [champagne glass|Glass|champagne-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne].",
+"story": "",
+"color": "Brown",
+"rating": 30,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "YYMrOWI9q2w",
+"type": "youtube"
+},
+{
+"video": "champagne-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+}
+],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "whisky",
+"id": "rye-whiskey",
+"text": "2 Parts [Rye Whiskey]",
+"textPlain": "2 Parts Rye Whiskey"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "1 Dash [Bitters]",
+"textPlain": "1 Dash Bitters"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "champagne-manhattan",
+"name": "Champagne Manhattan",
+"descriptionPlain": "Add bitters, rye whiskey and vermouth, sweet into a chilled champagne glass. Top up with champagne."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 17,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "R5mR8jzrbKM",
+"type": "youtube"
+},
+{
+"video": "mr-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "gin",
+"id": "gin",
+"text": "6 Parts [Gin]",
+"textPlain": "6 Parts Gin"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "1 Part [Orange Juice]",
+"textPlain": "1 Part Orange Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Dash [Lemon Juice]",
+"textPlain": "1 Dash Lemon Juice"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "4 Leaves [Mint Leaf]",
+"textPlain": "4 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mr-manhattan",
+"name": "Mr Manhattan",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "",
+"color": "Brown",
+"rating": 10,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "5iecPkgOJHU",
+"type": "youtube"
+},
+{
+"video": "latin-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "1 Part [Aged Rum of Cuban Type]",
+"textPlain": "1 Part Aged Rum of Cuban Type"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "latin-manhattan",
+"name": "Latin Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with a maraschino berry."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "",
+"color": "Brown",
+"rating": 10,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "HwIT1DaYrFc",
+"type": "youtube"
+},
+{
+"video": "comfort-manhattan-the.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "spirits-other",
+"id": "bourbon-peach-flavored",
+"text": "3 Parts [Bourbon, Peach Flavored]",
+"textPlain": "3 Parts Bourbon, Peach Flavored"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "1 Dash [Bitters]",
+"textPlain": "1 Dash Bitters"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "comfort-manhattan-the",
+"name": "Comfort Manhattan, The",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with a maraschino berry."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Oky31bSNr34",
+"type": "youtube"
+},
+{
+"video": "cuban-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "1 Part [Aged Rum of Cuban Type]",
+"textPlain": "1 Part Aged Rum of Cuban Type"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "½ Part [Vermouth, Sweet]",
+"textPlain": "½ Part Vermouth, Sweet"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Twist [Orange]",
+"textPlain": "1 Twist Orange"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "cuban-manhattan",
+"name": "Cuban Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Red",
+"rating": 48,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "I9M8RJMfCSs",
+"type": "youtube"
+},
+{
+"video": "spanish-manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_spanish_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "2 Parts [Bourbon]",
+"textPlain": "2 Parts Bourbon"
+},
+{
+"type": "spirits-other",
+"id": "sherry",
+"text": "1 Part [Sherry]",
+"textPlain": "1 Part Sherry"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "spanish-manhattan",
+"name": "Spanish Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "The whiskey-based Manhattan is one of five cocktails named for one of New York City's five boroughs, but is perhaps most closely related to the Brooklyn cocktail, a mix utilizing dry vermouth and Maraschino liqueur in place of the Manhattan's sweet vermouth, as well as Amer Picon in place of the Manhattan's traditional bitters. It is one of six basic drinks listed in David A. Embury's classic The Fine Art of Mixing Drinks.\r\n",
+"color": "Brown",
+"rating": 80,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "r33ovZ6AAAA",
+"type": "youtube"
+},
+{
+"video": "manhattan.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Classic1"
+},
+{
+"owner": "apps/1",
+"name": "howto_jigger"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Whiskey"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_movie_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_exotic_cocktail"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_sophisticated_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "rye-whiskey",
+"text": "2 Parts [Rye Whiskey]",
+"textPlain": "2 Parts Rye Whiskey"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "spirits-other",
+"id": "maraschino-liqueur",
+"text": "1 Splash [Maraschino Liqueur]",
+"textPlain": "1 Splash Maraschino Liqueur"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "manhattan",
+"name": "Manhattan",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with a maraschino berry."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a cherry and lemon.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "1UYrJv8xtpc",
+"type": "youtube"
+},
+{
+"video": "manhattan-perfect.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Classic1"
+},
+{
+"owner": "apps/225",
+"name": "Coll_martini"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60s_era_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "rye-whiskey",
+"text": "2 Parts [Rye Whiskey]",
+"textPlain": "2 Parts Rye Whiskey"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "½ Part [Dry Vermouth]",
+"textPlain": "½ Part Dry Vermouth"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "½ Part [Vermouth, Sweet]",
+"textPlain": "½ Part Vermouth, Sweet"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "fruits",
+"id": "cherry",
+"text": "1 Whole [Cherry]",
+"textPlain": "1 Whole Cherry"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Twist [Lemon]",
+"textPlain": "1 Twist Lemon"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "manhattan-perfect",
+"name": "Manhattan (Perfect)",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a cocktail glass. Garnish with a cherry and lemon."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "8YLXq59hWqk",
+"type": "youtube"
+},
+{
+"video": "manhattan-dry.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/5761",
+"name": "summerDrinks"
+},
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "rye-whiskey",
+"text": "2 Parts [Rye Whiskey]",
+"textPlain": "2 Parts Rye Whiskey"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Twist [Lemon]",
+"textPlain": "1 Twist Lemon"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "manhattan-dry",
+"name": "Manhattan (Dry)",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with lemon."
+}
+],
+"totalResult": 12
+}

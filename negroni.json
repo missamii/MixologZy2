@@ -1,0 +1,434 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "ncc98kl48iI",
+"type": "youtube"
+},
+{
+"video": "mandrin-negroni.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-mandrin",
+"text": "1 Part [Absolut Mandrin]",
+"textPlain": "1 Part Absolut Mandrin"
+},
+{
+"type": "spirits-other",
+"id": "campari",
+"text": "1 Part [Campari]",
+"textPlain": "1 Part Campari"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mandrin-negroni",
+"name": "Mandrin Negroni",
+"descriptionPlain": "Fill a rocks glass with ice cubes. Add all ingredients. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "The Negroni is a truly classic drink, originating from the 1920s, invented in Florence, Italy. Legend is, the drink’s name comes from the man who first ordered it: Count Camillo Negroni. He'd usually drink an Americano (Campari, sweet vermouth and soda) but wanted more kick. The bartender aced the soda and put in gin instead: A classic was born. We trade the gin in that for ABSOLUT CITRON. \r\n",
+"color": "Red",
+"rating": 75,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "p7tO0OiuC-s",
+"type": "youtube"
+},
+{
+"video": "absolut-negroni.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/385",
+"name": "Top 25"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Citron"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-citron",
+"text": "1 Part [Absolut Citron]",
+"textPlain": "1 Part Absolut Citron"
+},
+{
+"type": "spirits-other",
+"id": "campari",
+"text": "1 Part [Campari]",
+"textPlain": "1 Part Campari"
+},
+{
+"type": "spirits-other",
+"id": "red-vermouth",
+"text": "1 Part [Red Vermouth]",
+"textPlain": "1 Part Red Vermouth"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-negroni",
+"name": "Absolut Negroni",
+"descriptionPlain": "Fill a rocks glass with ice cubes. Add all ingredients. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir]. [Garnish|Action|garnish] with orange.",
+"story": "The Negroni is a truly classic drink, originating from the 1920s, invented in Florence, Italy. Legend is, the drink’s name comes from the man who first ordered it: Count Camillo Negroni. He'd usually drink an Americano (Campari, sweet vermouth and soda) but wanted more kick. The bartender aced the soda and put in gin instead: A classic was born.\r\n",
+"color": "Brown",
+"rating": 90,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "4Q1oixyZsXE",
+"type": "youtube"
+},
+{
+"video": "negroni.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Classic1"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Gin"
+},
+{
+"owner": "apps/3714",
+"name": "gin"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_red_and_pink_valentines"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_italian_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_20era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "gin",
+"id": "gin",
+"text": "1 Part [Gin]",
+"textPlain": "1 Part Gin"
+},
+{
+"type": "spirits-other",
+"id": "campari",
+"text": "1 Part [Campari]",
+"textPlain": "1 Part Campari"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "1 Part [Vermouth, Sweet]",
+"textPlain": "1 Part Vermouth, Sweet"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "negroni",
+"name": "Negroni",
+"descriptionPlain": "Fill a chilled rocks glass with ice cubes. Add all ingredients. Stir. Garnish with orange."
+}
+],
+"totalResult": 3
+}

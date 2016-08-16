@@ -1,0 +1,2151 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ZJ4kaSKyDQw",
+"type": "youtube"
+},
+{
+"video": "mint-tequila.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "3 Parts [Tequila]",
+"textPlain": "3 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "6 Leaves [Mint Leaf]",
+"textPlain": "6 Leaves Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mint-tequila",
+"name": "Mint Tequila",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [black currant liqueur|Ingredient|black-currant-liqueur], [grenadine|Ingredient|grenadine], [lime juice|Ingredient|lime-juice] and [tequila|Ingredient|tequila]. [Shake|Action|shake] and [strain|Action|strain] into a chilled [highball glass|Glass|highball-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Top up|Action|topup] with [soda water|Ingredient|soda-water]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Pink",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "XAH3Gad65z8",
+"type": "youtube"
+},
+{
+"video": "tequila-caliente.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "4 Parts [Tequila]",
+"textPlain": "4 Parts Tequila"
+},
+{
+"type": "spirits-other",
+"id": "black-currant-liqueur",
+"text": "1 Part [Black Currant Liqueur]",
+"textPlain": "1 Part Black Currant Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "grenadine",
+"text": "2 Dashes [Grenadine]",
+"textPlain": "2 Dashes Grenadine"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Peel [Lime]",
+"textPlain": "1 Peel Lime"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-caliente",
+"name": "Tequila Caliente",
+"descriptionPlain": "Fill a shaker with ice cubes. Add black currant liqueur, grenadine, lime juice and tequila. Shake and strain into a chilled highball glass filled with ice cubes. Top up with soda water. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a chilled [wine glass|Glass|wine-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients.",
+"story": "",
+"color": "Red",
+"rating": 10,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "ezChFKliH-w",
+"type": "youtube"
+},
+{
+"video": "tequila-espana.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "1 Part [Tequila]",
+"textPlain": "1 Part Tequila"
+},
+{
+"type": "spirits-other",
+"id": "sherry",
+"text": "1 Part [Sherry]",
+"textPlain": "1 Part Sherry"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-espana",
+"name": "Tequila España",
+"descriptionPlain": "Fill a chilled wine glass with ice cubes. Add all ingredients."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [wine glass|Glass|wine-glass] filled with [crushed ice|Ingredient|crushed-ice]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Yellow",
+"rating": 52,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "MTKUq5KlXfk",
+"type": "youtube"
+},
+{
+"video": "tequila-fix.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "5 Parts [Tequila]",
+"textPlain": "5 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "others",
+"id": "runny-honey",
+"text": "1 Part [Runny Honey]",
+"textPlain": "1 Part Runny Honey"
+},
+{
+"type": "spirits-other",
+"id": "orange-curacao",
+"text": "2 Dashes [Orange Curacao]",
+"textPlain": "2 Dashes Orange Curacao"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-fix",
+"name": "Tequila Fix",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled wine glass filled with crushed ice. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with a strawberry.",
+"story": "",
+"color": "Brown",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ZkOm5ACXuF8",
+"type": "youtube"
+},
+{
+"video": "tequila-fresa.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "strawberry-liqueur",
+"text": "1 Part [Strawberry Liqueur]",
+"textPlain": "1 Part Strawberry Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "orange-bitters",
+"text": "2 Dashes [Orange Bitters]",
+"textPlain": "2 Dashes Orange Bitters"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "1 Whole [Strawberry]",
+"textPlain": "1 Whole Strawberry"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-fresa",
+"name": "Tequila Fresa",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with a strawberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 34,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "e6u9rqIjhAI",
+"type": "youtube"
+},
+{
+"video": "tequila-guyaba.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "3 Parts [Tequila]",
+"textPlain": "3 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "guava-juice",
+"text": "1 Part [Guava Juice]",
+"textPlain": "1 Part Guava Juice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "1 Part [Orange Juice]",
+"textPlain": "1 Part Orange Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-guyaba",
+"name": "Tequila Guyaba",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a chilled [wine glass|Glass|wine-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [tequila|Ingredient|tequila], [grenadine|Ingredient|grenadine] and [lime juice|Ingredient|lime-juice]. [Top up|Action|topup] with [soda water|Ingredient|soda-water]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Brown",
+"rating": 45,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "AbYK6ozZi1o",
+"type": "youtube"
+},
+{
+"video": "tequila-sunrise-classic.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "grenadine",
+"text": "1 Part [Grenadine]",
+"textPlain": "1 Part Grenadine"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "[Soda Water]",
+"textPlain": "Soda Water"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wheel [Lime]",
+"textPlain": "1 Wheel Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-sunrise-classic",
+"name": "Tequila Sunrise classic",
+"descriptionPlain": "Fill a chilled wine glass with ice cubes. Add tequila, grenadine and lime juice. Top up with soda water. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with cucumber.",
+"story": "",
+"color": "Clear",
+"rating": 1,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "8R2EtV_0R08",
+"type": "youtube"
+},
+{
+"video": "sloe-tequila.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "others",
+"id": "cucumber",
+"text": "1 Slice [Cucumber]",
+"textPlain": "1 Slice Cucumber"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "sloe-tequila",
+"name": "Sloe Tequila",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with cucumber."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [crushed ice|Ingredient|crushed-ice]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Red",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "k8gkgfYs7XM",
+"type": "youtube"
+},
+{
+"video": "frozen-blackberry-tequila.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "3 Parts [Tequila]",
+"textPlain": "3 Parts Tequila"
+},
+{
+"type": "spirits-other",
+"id": "blackberry-liqueur",
+"text": "2 Parts [Blackberry Liqueur]",
+"textPlain": "2 Parts Blackberry Liqueur"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Slice [Lemon]",
+"textPlain": "1 Slice Lemon"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-blackberry-tequila",
+"name": "Frozen Blackberry Tequila",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with crushed ice. Garnish with lemon."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "cOLTZcJt7zs",
+"type": "youtube"
+},
+{
+"video": "tequila-cocktail.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "3 Parts [Tequila]",
+"textPlain": "3 Parts Tequila"
+},
+{
+"type": "spirits-other",
+"id": "port-red",
+"text": "2 Parts [Port, Red]",
+"textPlain": "2 Parts Port, Red"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Splash [Lime Juice]",
+"textPlain": "1 Splash Lime Juice"
+}
+],
+"tastes": [
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-cocktail",
+"name": "Tequila Cocktail",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Green",
+"rating": 23,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "pVFeKH0Gi3U",
+"type": "youtube"
+},
+{
+"video": "tequila-mockingbird.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "reposado-tequila",
+"text": "2 Parts [Reposado Tequila]",
+"textPlain": "2 Parts Reposado Tequila"
+},
+{
+"type": "spirits-other",
+"id": "green-mint-liqueur",
+"text": "½ Part [Green Mint Liqueur]",
+"textPlain": "½ Part Green Mint Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "½ Part [Lime Juice]",
+"textPlain": "½ Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "¼ Part [Simple Syrup]",
+"textPlain": "¼ Part Simple Syrup"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "1 Sprig [Mint Leaf]",
+"textPlain": "1 Sprig Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-mockingbird",
+"name": "Tequila Mockingbird",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 23,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "qK5x4rzrr-c",
+"type": "youtube"
+},
+{
+"video": "tequila-screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "1 Part [Tequila]",
+"textPlain": "1 Part Tequila"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "2 Parts [Orange Juice]",
+"textPlain": "2 Parts Orange Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-screwdriver",
+"name": "Tequila Screwdriver",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [tequila|Ingredient|tequila]. [Top up|Action|topup] with [ginger ale|Ingredient|ginger-ale].",
+"story": "",
+"color": "Clear",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "iJcVYreTzJg",
+"type": "youtube"
+},
+{
+"video": "tequila-slammer.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Tequila"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "1 Part [Tequila]",
+"textPlain": "1 Part Tequila"
+},
+{
+"type": "mixers",
+"id": "ginger-ale",
+"text": "[Ginger Ale]",
+"textPlain": "Ginger Ale"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-slammer",
+"name": "Tequila Slammer",
+"descriptionPlain": "Fill a rocks glass with ice cubes. Add tequila. Top up with ginger ale."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [orange juice|Ingredient|orange-juice] and [tequila|Ingredient|tequila]. [Float|Action|float] [grenadine|Ingredient|grenadine]. [Garnish|Action|garnish] with orange and a cherry.",
+"story": "",
+"color": "Yellow",
+"rating": 52,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "IG0htzo5IrA",
+"type": "youtube"
+},
+{
+"video": "tequila-sunrise.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_friends"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Tequila"
+},
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_wedding_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/9057",
+"name": "primary"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "1 Part [Tequila]",
+"textPlain": "1 Part Tequila"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "4 Parts [Orange Juice]",
+"textPlain": "4 Parts Orange Juice"
+},
+{
+"type": "mixers",
+"id": "grenadine",
+"text": "1 Dash [Grenadine]",
+"textPlain": "1 Dash Grenadine"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Slice [Orange]",
+"textPlain": "1 Slice Orange"
+},
+{
+"type": "fruits",
+"id": "cherry",
+"text": "1 Whole [Cherry]",
+"textPlain": "1 Whole Cherry"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "float",
+"text": "Float"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-sunrise",
+"name": "Tequila Sunrise",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add orange juice and tequila. Float grenadine. Garnish with orange and a cherry."
+}
+],
+"totalResult": 14
+}

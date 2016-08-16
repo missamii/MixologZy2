@@ -1,0 +1,3002 @@
+{
+"result": [
+{
+"description": "[Add|Action|add] [Absolut Apeach|Ingredient|absolut-apeach], [cointreau|Ingredient|cointreau] and [honey|Ingredient|honey] into a [highball glass|Glass|highball-glass]. [Top up|Action|topup] with [apple juice (hot)|Ingredient|apple-juice-hot]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 65,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "TC182GV_TDA",
+"type": "youtube"
+},
+{
+"video": "absolut-apeach-toddy.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-apeach",
+"text": "2 Parts [Absolut Apeach]",
+"textPlain": "2 Parts Absolut Apeach"
+},
+{
+"type": "spirits-other",
+"id": "cointreau",
+"text": "1 Part [Cointreau]",
+"textPlain": "1 Part Cointreau"
+},
+{
+"type": "others",
+"id": "honey",
+"text": "1 Dash [Honey]",
+"textPlain": "1 Dash Honey"
+},
+{
+"type": "mixers",
+"id": "apple-juice-hot",
+"text": "[Apple Juice (Hot)]",
+"textPlain": "Apple Juice (Hot)"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-apeach-toddy",
+"name": "Absolut Apeach Toddy",
+"descriptionPlain": "Add Absolut Apeach, cointreau and honey into a highball glass. Top up with apple juice (hot). Garnish with orange."
+},
+{
+"description": "[Add|Action|add] [cognac|Ingredient|cognac], [runny honey|Ingredient|runny-honey], [cloves|Ingredient|cloves] and [cinnamon|Ingredient|cinnamon] into a [rocks glass|Glass|rocks-glass]. [Top up|Action|topup] with [boiling water|Ingredient|boiling-water].",
+"story": "",
+"color": "Pink",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "lvAwljPQzqo",
+"type": "youtube"
+},
+{
+"video": "brandy-toddy.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "brandy",
+"id": "cognac",
+"text": "2 Parts [Cognac]",
+"textPlain": "2 Parts Cognac"
+},
+{
+"type": "others",
+"id": "runny-honey",
+"text": "1 Teaspoon [Runny Honey]",
+"textPlain": "1 Teaspoon Runny Honey"
+},
+{
+"type": "spices-herbs",
+"id": "cloves",
+"text": "2 Whole [Cloves]",
+"textPlain": "2 Whole Cloves"
+},
+{
+"type": "spices-herbs",
+"id": "cinnamon",
+"text": "1 Pinch [Cinnamon]",
+"textPlain": "1 Pinch Cinnamon"
+},
+{
+"type": "others",
+"id": "boiling-water",
+"text": "[Boiling Water]",
+"textPlain": "Boiling Water"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "brandy-toddy",
+"name": "Brandy Toddy",
+"descriptionPlain": "Add cognac, runny honey, cloves and cinnamon into a rocks glass. Top up with boiling water."
+},
+{
+"description": "[Add|Action|add] all ingredients into a chilled [wine glass|Glass|wine-glass]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "cz5r0Mh2-CM",
+"type": "youtube"
+},
+{
+"video": "hot-brandy-cider.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "brandy",
+"id": "cognac",
+"text": "1 Part [Cognac]",
+"textPlain": "1 Part Cognac"
+},
+{
+"type": "spirits-other",
+"id": "cider",
+"text": "3 Parts [Cider]",
+"textPlain": "3 Parts Cider"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Slice [Orange]",
+"textPlain": "1 Slice Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-brandy-cider",
+"name": "Hot Brandy Cider",
+"descriptionPlain": "Add all ingredients into a chilled wine glass. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients.",
+"story": "",
+"color": "Brown",
+"rating": 40,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "guBZFa24zdA",
+"type": "youtube"
+},
+{
+"video": "bull-shot.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "others",
+"id": "beef-consomme",
+"text": "4 Parts [Beef Consomme]",
+"textPlain": "4 Parts Beef Consomme"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Splash [Lemon Juice]",
+"textPlain": "1 Splash Lemon Juice"
+},
+{
+"type": "others",
+"id": "worcestershire-sauce",
+"text": "1 Splash [Worcestershire Sauce]",
+"textPlain": "1 Splash Worcestershire Sauce"
+},
+{
+"type": "others",
+"id": "hot-sauce",
+"text": "1 Dash [Hot Sauce]",
+"textPlain": "1 Dash Hot Sauce"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "bull-shot",
+"name": "Bull Shot",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients."
+},
+{
+"description": "[Add|Action|add] [Absolut Raspberri|Ingredient|absolut-raspberri] and [blackberry syrup|Ingredient|blackberry-syrup] into a [highball glass|Glass|highball-glass]. [Top up|Action|topup] with [cranberry juice (hot)|Ingredient|cranberry-juice-hot]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Red",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "tTkzHVyQKyI",
+"type": "youtube"
+},
+{
+"video": "absolut-hot-black-rasp.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-raspberri",
+"text": "4 Parts [Absolut Raspberri]",
+"textPlain": "4 Parts Absolut Raspberri"
+},
+{
+"type": "mixers",
+"id": "blackberry-syrup",
+"text": "1 Part [Blackberry Syrup]",
+"textPlain": "1 Part Blackberry Syrup"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice-hot",
+"text": "[Cranberry Juice (Hot)]",
+"textPlain": "Cranberry Juice (Hot)"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-hot-black-rasp",
+"name": "Absolut Hot Black Rasp",
+"descriptionPlain": "Add Absolut Raspberri and blackberry syrup into a highball glass. Top up with cranberry juice (hot). Garnish with orange."
+},
+{
+"description": "[Add|Action|add] all ingredients into a [rocks glass|Glass|rocks-glass].",
+"story": "",
+"color": "Red",
+"rating": 60,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "sqQbySenPG4",
+"type": "youtube"
+},
+{
+"video": "hot-breeze.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice-hot",
+"text": "6 Parts [Cranberry Juice (Hot)]",
+"textPlain": "6 Parts Cranberry Juice (Hot)"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "cinnamon-syrup",
+"text": "1 Splash [Cinnamon Syrup]",
+"textPlain": "1 Splash Cinnamon Syrup"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-breeze",
+"name": "Hot Breeze",
+"descriptionPlain": "Add all ingredients into a rocks glass."
+},
+{
+"description": "[Add|Action|add] [Absolut Raspberri|Ingredient|absolut-raspberri] and [blueberry syrup|Ingredient|blueberry-syrup] into a [highball glass|Glass|highball-glass]. [Top up|Action|topup] with [cranberry juice (hot)|Ingredient|cranberry-juice-hot]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Red",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "btUbJHMAkxw",
+"type": "youtube"
+},
+{
+"video": "absolut-hot-blue-rasp.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-raspberri",
+"text": "4 Parts [Absolut Raspberri]",
+"textPlain": "4 Parts Absolut Raspberri"
+},
+{
+"type": "mixers",
+"id": "blueberry-syrup",
+"text": "1 Part [Blueberry Syrup]",
+"textPlain": "1 Part Blueberry Syrup"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice-hot",
+"text": "[Cranberry Juice (Hot)]",
+"textPlain": "Cranberry Juice (Hot)"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-hot-blue-rasp",
+"name": "Absolut Hot Blue Rasp",
+"descriptionPlain": "Add Absolut Raspberri and blueberry syrup into a highball glass. Top up with cranberry juice (hot). Garnish with orange."
+},
+{
+"description": "[Stir|Action|stir] all ingredients in a [mixing glass|Tool|mixing-glass]. [Pour|Action|pour] into a [wine glass|Glass|wine-glass]. [Garnish|Action|garnish] with lemon and a cinnamon cane.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "b3aJ8sQyjfQ",
+"type": "youtube"
+},
+{
+"video": "hot-buttered-rum.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "rum",
+"id": "dark-rum-aged",
+"text": "2 Parts [Dark Rum (aged)]",
+"textPlain": "2 Parts Dark Rum (aged)"
+},
+{
+"type": "others",
+"id": "boiling-water",
+"text": "4 Parts [Boiling Water]",
+"textPlain": "4 Parts Boiling Water"
+},
+{
+"type": "others",
+"id": "honey",
+"text": "1 Part [Honey]",
+"textPlain": "1 Part Honey"
+},
+{
+"type": "others",
+"id": "butter",
+"text": "1 Teaspoon [Butter]",
+"textPlain": "1 Teaspoon Butter"
+},
+{
+"type": "others",
+"id": "nutmeg",
+"text": "1 Pinch [Nutmeg]",
+"textPlain": "1 Pinch Nutmeg"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Slice [Lemon]",
+"textPlain": "1 Slice Lemon"
+},
+{
+"type": "others",
+"id": "cinnamon-cane",
+"text": "1 Whole [Cinnamon Cane]",
+"textPlain": "1 Whole Cinnamon Cane"
+}
+],
+"tastes": [
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-buttered-rum",
+"name": "Hot Buttered Rum",
+"descriptionPlain": "Stir all ingredients in a mixing glass. Pour into a wine glass. Garnish with lemon and a cinnamon cane."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with strawberry.",
+"story": "",
+"color": "Red",
+"rating": 34,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "n_O0sJDUgGM",
+"type": "youtube"
+},
+{
+"video": "absolut-hot-smith.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Peppar"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "vodka",
+"id": "absolut-peppar",
+"text": "1 Part [Absolut Peppar]",
+"textPlain": "1 Part Absolut Peppar"
+},
+{
+"type": "mixers",
+"id": "strawberry-juice",
+"text": "3 Parts [Strawberry Juice]",
+"textPlain": "3 Parts Strawberry Juice"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "1 Half [Strawberry]",
+"textPlain": "1 Half Strawberry"
+}
+],
+"tastes": [
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-hot-smith",
+"name": "Absolut Hot Smith",
+"descriptionPlain": "Fill a chilled rocks glass with crushed ice. Add all ingredients. Garnish with strawberry."
+},
+{
+"description": "[Add|Action|add] [cream of coconut|Ingredient|cream-of-coconut], [hazelnut liqueur|Ingredient|hazelnut-liqueur] and [vanilla liqueur|Ingredient|vanilla-liqueur] into a [wine glass|Glass|wine-glass]. [Top up|Action|topup] with [coffee|Ingredient|coffee]. [Float|Action|float] [cream|Ingredient|cream].",
+"story": "",
+"color": "Brown",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Rw3IpwUmbDs",
+"type": "youtube"
+},
+{
+"video": "hot-himalaya-express.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "spirits-other",
+"id": "hazelnut-liqueur",
+"text": "2 Parts [Hazelnut Liqueur]",
+"textPlain": "2 Parts Hazelnut Liqueur"
+},
+{
+"type": "others",
+"id": "cream-of-coconut",
+"text": "1 Part [Cream of coconut]",
+"textPlain": "1 Part Cream of coconut"
+},
+{
+"type": "spirits-other",
+"id": "vanilla-liqueur",
+"text": "1 Part [Vanilla Liqueur]",
+"textPlain": "1 Part Vanilla Liqueur"
+},
+{
+"type": "mixers",
+"id": "cream",
+"text": "1 Part [Cream]",
+"textPlain": "1 Part Cream"
+},
+{
+"type": "mixers",
+"id": "coffee",
+"text": "[Coffee]",
+"textPlain": "Coffee"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "float",
+"text": "Float"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-himalaya-express",
+"name": "Hot Himalaya Express",
+"descriptionPlain": "Add cream of coconut, hazelnut liqueur and vanilla liqueur into a wine glass. Top up with coffee. Float cream."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Red",
+"rating": 20,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "TswhrNQ_sCA",
+"type": "youtube"
+},
+{
+"video": "hot-italy.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "whisky",
+"id": "scotch-whisky",
+"text": "1 Part [Scotch Whisky]",
+"textPlain": "1 Part Scotch Whisky"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "1 Dash [Bitters]",
+"textPlain": "1 Dash Bitters"
+},
+{
+"type": "spirits-other",
+"id": "vermouth-sweet",
+"text": "[Vermouth, Sweet] To Taste",
+"textPlain": "Vermouth, Sweet To Taste"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Peel [Lemon]",
+"textPlain": "1 Peel Lemon"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-italy",
+"name": "Hot Italy",
+"descriptionPlain": "Fill a chilled rocks glass with crushed ice. Add all ingredients. Garnish with lemon."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "",
+"color": "Brown",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "cfTxhafnZRI",
+"type": "youtube"
+},
+{
+"video": "hot-line.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "spirits-other",
+"id": "calvados",
+"text": "1 Part [Calvados]",
+"textPlain": "1 Part Calvados"
+},
+{
+"type": "spirits-other",
+"id": "orange-bitters",
+"text": "1 Dash [Orange Bitters]",
+"textPlain": "1 Dash Orange Bitters"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-line",
+"name": "Hot Line",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a maraschino berry."
+},
+{
+"description": "[Add|Action|add] all ingredients into a [wine glass|Glass|wine-glass].",
+"story": "",
+"color": "Brown",
+"rating": 43,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "vHaW5iVAUFA",
+"type": "youtube"
+},
+{
+"video": "hot-rhum-punch.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "brandy",
+"id": "cognac",
+"text": "2 Parts [Cognac]",
+"textPlain": "2 Parts Cognac"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "2 Parts [Light Rum]",
+"textPlain": "2 Parts Light Rum"
+},
+{
+"type": "others",
+"id": "boiling-water",
+"text": "6 Parts [Boiling Water]",
+"textPlain": "6 Parts Boiling Water"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "sherry",
+"text": "1 Part [Sherry]",
+"textPlain": "1 Part Sherry"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-rhum-punch",
+"name": "Hot Rhum Punch",
+"descriptionPlain": "Add all ingredients into a wine glass."
+},
+{
+"description": "[Add|Action|add] all ingredients into a [wine glass|Glass|wine-glass]. [Garnish|Action|garnish] with lemon, orange and cinnamon cane.",
+"story": "",
+"color": "Red",
+"rating": 66,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "7ZuQIlFbGhc",
+"type": "youtube"
+},
+{
+"video": "hot-spiced-cider.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "spirits-other",
+"id": "cider-hot",
+"text": "4 Parts [Cider Hot]",
+"textPlain": "4 Parts Cider Hot"
+},
+{
+"type": "spirits-other",
+"id": "calvados",
+"text": "½ Part [Calvados]",
+"textPlain": "½ Part Calvados"
+},
+{
+"type": "others",
+"id": "runny-honey",
+"text": "½ Part [Runny Honey]",
+"textPlain": "½ Part Runny Honey"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Peel [Lemon]",
+"textPlain": "1 Peel Lemon"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+},
+{
+"type": "others",
+"id": "cinnamon-cane",
+"text": "1 Stick [Cinnamon Cane]",
+"textPlain": "1 Stick Cinnamon Cane"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-spiced-cider",
+"name": "Hot Spiced Cider",
+"descriptionPlain": "Add all ingredients into a wine glass. Garnish with lemon, orange and cinnamon cane."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 10,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Jjm9aNYUb3I",
+"type": "youtube"
+},
+{
+"video": "hot-spring.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "canadian-whisky",
+"text": "2 Parts [Canadian Whisky]",
+"textPlain": "2 Parts Canadian Whisky"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "mixers",
+"id": "pineapple-juice",
+"text": "2 Dashes [Pineapple Juice]",
+"textPlain": "2 Dashes Pineapple Juice"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-spring",
+"name": "Hot Spring",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "0j_FozIo4BI",
+"type": "youtube"
+},
+{
+"video": "hot-toad.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "3 Parts [Aged Rum of Cuban Type]",
+"textPlain": "3 Parts Aged Rum of Cuban Type"
+},
+{
+"type": "brandy",
+"id": "apricot-brandy",
+"text": "2 Parts [Apricot Brandy]",
+"textPlain": "2 Parts Apricot Brandy"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hot-toad",
+"name": "Hot Toad",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Pink",
+"rating": 10,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "zNmriOICh4k",
+"type": "youtube"
+},
+{
+"video": "hotcha.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "2 Parts [Light Rum]",
+"textPlain": "2 Parts Light Rum"
+},
+{
+"type": "spirits-other",
+"id": "sherry",
+"text": "1 Part [Sherry]",
+"textPlain": "1 Part Sherry"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "hotcha",
+"name": "Hotcha",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes].",
+"story": "",
+"color": "Red",
+"rating": 34,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "U2LKzVRqcYA",
+"type": "youtube"
+},
+{
+"video": "absolut-may-be-hot.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Peppar"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-peppar",
+"text": "2 Parts [Absolut Peppar]",
+"textPlain": "2 Parts Absolut Peppar"
+},
+{
+"type": "mixers",
+"id": "tomato-juice",
+"text": "2 Parts [Tomato Juice]",
+"textPlain": "2 Parts Tomato Juice"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "1 Part [Orange Juice]",
+"textPlain": "1 Part Orange Juice"
+},
+{
+"type": "others",
+"id": "balsamico-vinegar",
+"text": "1 Dash [Balsamico Vinegar]",
+"textPlain": "1 Dash Balsamico Vinegar"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-may-be-hot",
+"name": "Absolut May Be Hot",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes."
+},
+{
+"description": "[Add|Action|add] [spiced rum|Ingredient|spiced-rum], [peppermint schnapps|Ingredient|peppermint-schnapps] and [runny honey|Ingredient|runny-honey] into a [wine glass|Glass|wine-glass]. [Top up|Action|topup] with [tea (hot)|Ingredient|tea-hot]. [Garnish|Action|garnish] with mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "V5WJA7mCOG0",
+"type": "youtube"
+},
+{
+"video": "chai-toddy.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "rum",
+"id": "spiced-rum",
+"text": "3 Parts [Spiced Rum]",
+"textPlain": "3 Parts Spiced Rum"
+},
+{
+"type": "others",
+"id": "runny-honey",
+"text": "1 Splash [Runny Honey]",
+"textPlain": "1 Splash Runny Honey"
+},
+{
+"type": "spirits-other",
+"id": "peppermint-schnapps",
+"text": "1 Dash [Peppermint Schnapps]",
+"textPlain": "1 Dash Peppermint Schnapps"
+},
+{
+"type": "mixers",
+"id": "tea-hot",
+"text": "[Tea (Hot)]",
+"textPlain": "Tea (Hot)"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "1 Sprig [Mint Leaf]",
+"textPlain": "1 Sprig Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "chai-toddy",
+"name": "Chai Toddy",
+"descriptionPlain": "Add spiced rum, peppermint schnapps and runny honey into a wine glass. Top up with tea (hot). Garnish with mint leaf."
+},
+{
+"description": "[Add|Action|add] [butter|Ingredient|butter], [dark rum of jamaican type|Ingredient|dark-rum-of-jamaican-type] and [runny honey|Ingredient|runny-honey] into a [rocks glass|Glass|rocks-glass]. [Top up|Action|topup] with [boiling water|Ingredient|boiling-water].",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "sbZtaEpDD9U",
+"type": "youtube"
+},
+{
+"video": "rum-toddy-buttered.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "rum",
+"id": "dark-rum-of-jamaican-type",
+"text": "3 Parts [Dark Rum of Jamaican Type]",
+"textPlain": "3 Parts Dark Rum of Jamaican Type"
+},
+{
+"type": "others",
+"id": "runny-honey",
+"text": "1 Part [Runny Honey]",
+"textPlain": "1 Part Runny Honey"
+},
+{
+"type": "others",
+"id": "butter",
+"text": "1 Teaspoon [Butter]",
+"textPlain": "1 Teaspoon Butter"
+},
+{
+"type": "others",
+"id": "boiling-water",
+"text": "[Boiling Water]",
+"textPlain": "Boiling Water"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "rum-toddy-buttered",
+"name": "Rum Toddy Buttered",
+"descriptionPlain": "Add butter, dark rum of jamaican type and runny honey into a rocks glass. Top up with boiling water."
+},
+{
+"description": "[Add|Action|add] [Absolut Mandrin|Ingredient|absolut-mandrin] into a [highball glass|Glass|highball-glass]. [Top up|Action|topup] with [cranberry juice (hot)|Ingredient|cranberry-juice-hot]. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Red",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "mCK-NyHXafM",
+"type": "youtube"
+},
+{
+"video": "absolut-red-hot.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": true,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-mandrin",
+"text": "1 Part [Absolut Mandrin]",
+"textPlain": "1 Part Absolut Mandrin"
+},
+{
+"type": "mixers",
+"id": "cranberry-juice-hot",
+"text": "[Cranberry Juice (Hot)]",
+"textPlain": "Cranberry Juice (Hot)"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Peel [Orange]",
+"textPlain": "1 Peel Orange"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-red-hot",
+"name": "Absolut Red Hot",
+"descriptionPlain": "Add Absolut Mandrin into a highball glass. Top up with cranberry juice (hot). Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Pink",
+"rating": 47,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "U8QRvhMAFV8",
+"type": "youtube"
+},
+{
+"video": "savoy-hotel-special-cocktail-no-1.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "gin",
+"id": "gin",
+"text": "2 Parts [Gin]",
+"textPlain": "2 Parts Gin"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "mixers",
+"id": "grenadine",
+"text": "2 Dashes [Grenadine]",
+"textPlain": "2 Dashes Grenadine"
+},
+{
+"type": "spirits-other",
+"id": "absinthe",
+"text": "1 Dash [Absinthe]",
+"textPlain": "1 Dash Absinthe"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Peel [Lemon]",
+"textPlain": "1 Peel Lemon"
+}
+],
+"tastes": [
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "savoy-hotel-special-cocktail-no-1",
+"name": "Savoy Hotel Special Cocktail No.1",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with lemon."
+},
+{
+"description": "[Add|Action|add] [crème de menthe, white|Ingredient|creme-de-menthe-white] into a chilled [wine glass|Glass|wine-glass]. [Top up|Action|topup] with [coffee cold|Ingredient|coffee-cold].",
+"story": "",
+"color": "Brown",
+"rating": 10,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "G7WLE1JOT7k",
+"type": "youtube"
+},
+{
+"video": "coffee-hot-and-cool.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "spirits-other",
+"id": "creme-de-menthe-white",
+"text": "2 Parts [Crème De Menthe, White]",
+"textPlain": "2 Parts Crème De Menthe, White"
+},
+{
+"type": "mixers",
+"id": "coffee-cold",
+"text": "[Coffee Cold]",
+"textPlain": "Coffee Cold"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "coffee-hot-and-cool",
+"name": "Coffee Hot And Cool",
+"descriptionPlain": "Add crème de menthe, white into a chilled wine glass. Top up with coffee cold."
+},
+{
+"description": "[Fill|Action|fill] a [mixing glass|Tool|mixing-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Brown",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "pjpkwTsNwDs",
+"type": "youtube"
+},
+{
+"video": "big-shot.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "2 Parts [Bourbon]",
+"textPlain": "2 Parts Bourbon"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "1 Part [Dry Vermouth]",
+"textPlain": "1 Part Dry Vermouth"
+},
+{
+"type": "spirits-other",
+"id": "dark-cacao-liqueur",
+"text": "1 Part [Dark Cacao Liqueur]",
+"textPlain": "1 Part Dark Cacao Liqueur"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Spiral [Lemon]",
+"textPlain": "1 Spiral Lemon"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "mixing-glass",
+"text": "Mixing glass"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "big-shot",
+"name": "Big Shot",
+"descriptionPlain": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass. Garnish with lemon."
+},
+{
+"description": "[Fill|Action|fill] a chilled [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients.",
+"story": "",
+"color": "Red",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Ffh9el9bEbg",
+"type": "youtube"
+},
+{
+"video": "gin-toddy.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "gin",
+"id": "gin",
+"text": "1 Part [Gin]",
+"textPlain": "1 Part Gin"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "1 Dash [Bitters]",
+"textPlain": "1 Dash Bitters"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "gin-toddy",
+"name": "Gin Toddy",
+"descriptionPlain": "Fill a chilled rocks glass with ice cubes. Add all ingredients."
+}
+],
+"totalResult": 42,
+"next": "https://addb.absolutdrinks.com/quickSearch/drinks/hot%20toddy/?apiKey=477a7635dcb248d591a7abdaf035ee32&start=25&pageSize=25"
+}

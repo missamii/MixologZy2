@@ -1,0 +1,652 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [Absolut Vodka|Ingredient|absolut-vodka] and [orange juice|Ingredient|orange-juice]. [Top up|Action|topup] with [sparkling wine|Ingredient|sparkling-wine].",
+"story": "",
+"color": "Brown",
+"rating": 53,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "zxCofHisLnY",
+"type": "youtube"
+},
+{
+"video": "elevated-screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_friends"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "1 Part [Absolut Vodka]",
+"textPlain": "1 Part Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "3 Parts [Orange Juice]",
+"textPlain": "3 Parts Orange Juice"
+},
+{
+"type": "spirits-other",
+"id": "sparkling-wine",
+"text": "[Sparkling Wine]",
+"textPlain": "Sparkling Wine"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "elevated-screwdriver",
+"name": "Elevated Screwdriver",
+"descriptionPlain": "Fill a highball glass with ice cubes. Add Absolut Vodka and orange juice. Top up with sparkling wine."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients.",
+"story": "",
+"color": "Yellow",
+"rating": 45,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "oW0W9B6fCPU",
+"type": "youtube"
+},
+{
+"video": "ruby-screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-ruby-red",
+"text": "2 Parts [Absolut Ruby Red]",
+"textPlain": "2 Parts Absolut Ruby Red"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "3 Parts [Orange Juice]",
+"textPlain": "3 Parts Orange Juice"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "ruby-screwdriver",
+"name": "Ruby Screwdriver",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange and a raspberry.",
+"story": "",
+"color": "Yellow",
+"rating": 30,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "dSxyMkPxfaQ",
+"type": "youtube"
+},
+{
+"video": "absolut-raspberri-screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-raspberri",
+"text": "2 Parts [Absolut Raspberri]",
+"textPlain": "2 Parts Absolut Raspberri"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "3 Parts [Orange Juice]",
+"textPlain": "3 Parts Orange Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+},
+{
+"type": "berries",
+"id": "raspberry",
+"text": "1 Whole [Raspberry]",
+"textPlain": "1 Whole Raspberry"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-raspberri-screwdriver",
+"name": "Absolut Raspberri Screwdriver",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients. Garnish with orange and a raspberry."
+},
+{
+"description": "[Fill|Action|fill] a chilled [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Brown",
+"rating": 23,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "qK5x4rzrr-c",
+"type": "youtube"
+},
+{
+"video": "tequila-screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_Cinco_de_Mayo_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "1 Part [Tequila]",
+"textPlain": "1 Part Tequila"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "2 Parts [Orange Juice]",
+"textPlain": "2 Parts Orange Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wedge [Orange]",
+"textPlain": "1 Wedge Orange"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tequila-screwdriver",
+"name": "Tequila Screwdriver",
+"descriptionPlain": "Fill a chilled highball glass with ice cubes. Add all ingredients. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "The orange is less frequently used in the bar than its more acidic cousins, the lemon and the lime. But it makes a very good garnish - not the least as here, in wedges, or as an orange twist. Use a zester or a knife to cut a loooong spiral of orange peel. Put it in the glass, add ice, and then build the drink as usual. Very stylish.\r\n",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "LSi3-LI3-qk",
+"type": "youtube"
+},
+{
+"video": "screwdriver.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/1",
+"name": "art_outside"
+},
+{
+"owner": "apps/225",
+"name": "coll_summer_essential"
+},
+{
+"owner": "apps/1",
+"name": "popular"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Duo"
+},
+{
+"owner": "apps/1",
+"name": "cat_60era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60s_era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_easy_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-vodka",
+"text": "2 Parts [Absolut Vodka]",
+"textPlain": "2 Parts Absolut Vodka"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "3 Parts [Orange Juice]",
+"textPlain": "3 Parts Orange Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Slice [Orange]",
+"textPlain": "1 Slice Orange"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "screwdriver",
+"name": "Screwdriver",
+"descriptionPlain": "Fill a highball glass with ice cubes. Add all ingredients. Garnish with orange."
+}
+],
+"totalResult": 5
+}

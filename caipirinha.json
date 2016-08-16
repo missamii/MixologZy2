@@ -1,0 +1,322 @@
+{
+"result": [
+{
+"description": "[Muddle|Action|muddle] [lime|Ingredient|lime], [simple syrup|Ingredient|simple-syrup] and [cherry|Ingredient|cherry] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [cachaca|Ingredient|cachaca]. [Stir|Action|stir]. [Garnish|Action|garnish] with a cherry.",
+"story": "",
+"color": "Brown",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "BVJn9YLMZpw",
+"type": "youtube"
+},
+{
+"video": "cherry-caipirinha.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "spirits-other",
+"id": "cachaca",
+"text": "5 Parts [Cachaca]",
+"textPlain": "5 Parts Cachaca"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "6 Quarters [Lime]",
+"textPlain": "6 Quarters Lime"
+},
+{
+"type": "fruits",
+"id": "cherry",
+"text": "5 Pieces [Cherry]",
+"textPlain": "5 Pieces Cherry"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "berry",
+"text": "Berry"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "cherry-caipirinha",
+"name": "Cherry Caipirinha",
+"descriptionPlain": "Muddle lime, simple syrup and cherry in a chilled rocks glass. Fill with crushed ice. Add cachaca. Stir. Garnish with a cherry."
+},
+{
+"description": "[Muddle|Action|muddle] [lime|Ingredient|lime] and [simple syrup|Ingredient|simple-syrup] in a chilled [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] [cachaca|Ingredient|cachaca]. [Stir|Action|stir].",
+"story": "The Caipirinha is the national cocktail of Brazil. It is enjoyed in restaurants, bars, and many households throughout the country. Originally made with Cachaça, the Caipirinha was once almost unknown outside of Brazil. However, a secret this delicious couldn’t stay hidden forever, and the drink has become more popular and more widely available in recent years.\r\n",
+"color": "Yellow",
+"rating": 60,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "0ucdhEQUdQw",
+"type": "youtube"
+},
+{
+"video": "caipirinha.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_beach_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_10_basic_mixed_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_brazilian_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "spirits-other",
+"id": "cachaca",
+"text": "5 Parts [Cachaca]",
+"textPlain": "5 Parts Cachaca"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "8 Quarters [Lime]",
+"textPlain": "8 Quarters Lime"
+}
+],
+"tastes": [
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "caipirinha",
+"name": "Caipirinha  ",
+"descriptionPlain": "Muddle lime and simple syrup in a chilled rocks glass. Fill with crushed ice. Add cachaca. Stir."
+}
+],
+"totalResult": 2
+}

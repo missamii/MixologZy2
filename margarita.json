@@ -1,0 +1,1223 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a [wine glass|Glass|wine-glass]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "JawSnXBQFQM",
+"type": "youtube"
+},
+{
+"video": "virgin-peach-margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Apeach"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "4 Parts [Lime Juice]",
+"textPlain": "4 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "agave-nectar",
+"text": "2 Parts [Agave Nectar]",
+"textPlain": "2 Parts Agave Nectar"
+},
+{
+"type": "fruits",
+"id": "peach",
+"text": "2 Halves [Peach]",
+"textPlain": "2 Halves Peach"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "virgin-peach-margarita",
+"name": "Virgin Peach Margarita",
+"descriptionPlain": "Fill a blender with crushed ice. Add all ingredients. Blend and pour into a wine glass. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [lemon juice|Ingredient|lemon-juice], [orange flavored brandy|Ingredient|orange-flavored-brandy] and [triple sec|Ingredient|triple-sec]. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Top up|Action|topup] with [champagne|Ingredient|champagne]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Yellow",
+"rating": 20,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "xJH9PqtuN58",
+"type": "youtube"
+},
+{
+"video": "bubble-margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "brandy",
+"id": "orange-flavored-brandy",
+"text": "1 Part [Orange Flavored Brandy]",
+"textPlain": "1 Part Orange Flavored Brandy"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "2 Parts [Triple Sec]",
+"textPlain": "2 Parts Triple Sec"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Splash [Lemon Juice]",
+"textPlain": "1 Splash Lemon Juice"
+},
+{
+"type": "spirits-other",
+"id": "champagne",
+"text": "[Champagne]",
+"textPlain": "Champagne"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Twist [Lemon]",
+"textPlain": "1 Twist Lemon"
+}
+],
+"tastes": [
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "bubble-margarita",
+"name": "Bubble Margarita",
+"descriptionPlain": "Fill a shaker with ice cubes. Add lemon juice, orange flavored brandy and triple sec. Shake and strain into a chilled cocktail glass. Top up with champagne. Garnish with lemon."
+},
+{
+"description": "[Add|Action|add] all ingredients into a [shaker|Tool|boston-shaker]. [Fill|Action|fill] with [ice cubes|Ingredient|ice-cubes]. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "yLua6AEJo5E",
+"type": "youtube"
+},
+{
+"video": "tommys-margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "agave-nectar",
+"text": "1 Part [Agave Nectar]",
+"textPlain": "1 Part Agave Nectar"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "¾ Part [Lime Juice]",
+"textPlain": "¾ Part Lime Juice"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "tommys-margarita",
+"name": "Tommy´s Margarita",
+"descriptionPlain": "Add all ingredients into a shaker. Fill with ice cubes. Shake and strain into a rocks glass filled with ice cubes. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "jAPKbOj_OfI",
+"type": "youtube"
+},
+{
+"video": "absolut-mango-margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Mango"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-mango",
+"text": "1 Part [Absolut Mango]",
+"textPlain": "1 Part Absolut Mango"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "mixers",
+"id": "mango-puree",
+"text": "1 Part [Mango Puree]",
+"textPlain": "1 Part Mango Puree"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-mango-margarita",
+"name": "Absolut Mango Margarita",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Clear",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "BGm_BUVeKKg",
+"type": "youtube"
+},
+{
+"video": "classic-margarita-straight-up.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "classic-margarita-straight-up",
+"name": "Classic Margarita Straight Up",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "There is no solid proof who \"invented\" the Margarita. The most accepted of all stories is that the Margarita was invented in October 1941, at Hussong's Cantina in Ensenada, Mexico, by bartender Don Carlos Orozco. One slow afternoon, Don Carlos was experimenting with mixing new drinks when a prestigious visitor arrived: Margarita Henkel, the daughter of a German ambassador, who lived with her husband Roy Parodi near the city in Rancho Hamilton. Don Carlos offered the drink to Margarita, and named it after her for being the first person to taste it.\r\n",
+"color": "Clear",
+"rating": 80,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "NdBVchHL4l0",
+"type": "youtube"
+},
+{
+"video": "margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "art_gathering"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Classic1"
+},
+{
+"owner": "apps/1",
+"name": "popular"
+},
+{
+"owner": "apps/1",
+"name": "art_stocking"
+},
+{
+"owner": "apps/1",
+"name": "art_behindbar"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Tequila"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_caribean_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Birthday_Cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_beach_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_birthday_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_10_basic_mixed_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "margarita",
+"name": "Margarita",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lime.",
+"story": "The Frozen Margarita has many a story about its origins. While the history is a little icy, one thing that’s history is solid is when the Frozen Margarita machine was invented, which was May 11, 1971, by restaurant owner Mariano Martinez. Basically a converted soft-serve ice cream machine, the original machine is on display at the Smithsonian National Museum of History. Some other facts include: the Margarita was the \"Drink of the Month\" in Esquire magazine in December of 1953, and further popularized by the Jimmy Buffett song \"Margaritaville\".",
+"color": "Yellow",
+"rating": 56,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "VNk7fwBQXiE",
+"type": "youtube"
+},
+{
+"video": "frozen-margarita.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/129",
+"name": "fb_tab"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Tequila"
+},
+{
+"owner": "apps/1",
+"name": "howto_freeze"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Sour"
+},
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "3 Parts [Lime Juice]",
+"textPlain": "3 Parts Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Slice [Lime]",
+"textPlain": "1 Slice Lime"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-margarita",
+"name": "Frozen Margarita",
+"descriptionPlain": "Fill a blender with crushed ice. Add all ingredients. Blend and pour into a chilled cocktail glass. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes].",
+"story": "",
+"color": "Clear",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "zlemL1pOQcs",
+"type": "youtube"
+},
+{
+"video": "classic-margarita-on-the-rocks.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Party"
+},
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+},
+{
+"owner": "apps/9057",
+"name": "primary"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "tequila",
+"id": "tequila",
+"text": "2 Parts [Tequila]",
+"textPlain": "2 Parts Tequila"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "1 Part [Triple Sec]",
+"textPlain": "1 Part Triple Sec"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "classic-margarita-on-the-rocks",
+"name": "Classic Margarita On The Rocks",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a rocks glass filled with ice cubes."
+}
+],
+"totalResult": 8
+}

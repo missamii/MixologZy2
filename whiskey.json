@@ -1,0 +1,792 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Yellow",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "MLa9SpxUbrk",
+"type": "youtube"
+},
+{
+"video": "admiral-with-whiskey.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "dry-vermouth",
+"text": "2 Parts [Dry Vermouth]",
+"textPlain": "2 Parts Dry Vermouth"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "1 Part [Bourbon]",
+"textPlain": "1 Part Bourbon"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "2 Parts [Lemon Juice]",
+"textPlain": "2 Parts Lemon Juice"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Spiral [Lemon]",
+"textPlain": "1 Spiral Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "twist-knife",
+"text": "Twist Knife"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "admiral-with-whiskey",
+"name": "Admiral (with Whiskey)",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lemon."
+},
+{
+"description": "[Fill|Action|fill] a [rocks glass|Glass|rocks-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] [lime juice|Ingredient|lime-juice]. [Top up|Action|topup] with [ginger ale|Ingredient|ginger-ale]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Green",
+"rating": 65,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "v9gyyml6-2w",
+"type": "youtube"
+},
+{
+"video": "mock-whiskey.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Duo"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "ginger-ale",
+"text": "[Ginger Ale]",
+"textPlain": "Ginger Ale"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mock-whiskey",
+"name": "Mock Whiskey",
+"descriptionPlain": "Fill a rocks glass with ice cubes. Add lime juice. Top up with ginger ale. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [crushed ice|Ingredient|crushed-ice].",
+"story": "",
+"color": "Brown",
+"rating": 54,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "qp_rmkxoBZc",
+"type": "youtube"
+},
+{
+"video": "whiskey-sour-in-the-rough.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "3 Parts [Bourbon]",
+"textPlain": "3 Parts Bourbon"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "1 Part [Orange Juice]",
+"textPlain": "1 Part Orange Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "whiskey-sour-in-the-rough",
+"name": "Whiskey Sour In The Rough",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with crushed ice."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [champagne glass|Glass|champagne-glass].",
+"story": "",
+"color": "Brown",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "Bme8Q9ElNB0",
+"type": "youtube"
+},
+{
+"video": "whiskey-shake.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "champagne-glass",
+"text": "Champagne Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "bourbon",
+"text": "1 Part [Bourbon]",
+"textPlain": "1 Part Bourbon"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+}
+],
+"tastes": [
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "whiskey-shake",
+"name": "Whiskey Shake",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled champagne glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [rocks glass|Glass|rocks-glass] filled with [ice cubes|Ingredient|ice-cubes]. [Garnish|Action|garnish] with a maraschino berry.",
+"story": "In 1962, the Universidad del Cuyo published a story which cited a Peruvian newspaper called El Comercio de Iquique as indicating that Eliott Stubb created the \"whisky sour\" in 1872. El Comercio de Iquique was published by Modesto Molina between 1874 and 1879. However, the oldest historical mention of a whisky sour prepared in the world comes from a newspaper published in Wisconsin in 1870. As the gin sour has historical references dating to the 1860s, the Peruvian whiskey sour origin is spurious.\r\n",
+"color": "Yellow",
+"rating": 82,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "nPrdigikE20",
+"type": "youtube"
+},
+{
+"video": "whiskey-sour.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Whiskey"
+},
+{
+"owner": "apps/1",
+"name": "art_behindbar"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Party"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Sour"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_contemporary_sour"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_classy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_movie_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_60s_era_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_prohibition_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_sophisticated_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_easy_cocktails"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "whisky",
+"id": "scotch-whisky",
+"text": "2 Parts [Scotch Whisky]",
+"textPlain": "2 Parts Scotch Whisky"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "¾ Part [Lemon Juice]",
+"textPlain": "¾ Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "¾ Part [Simple Syrup]",
+"textPlain": "¾ Part Simple Syrup"
+},
+{
+"type": "others",
+"id": "egg-white",
+"text": "1 Splash [Egg White]",
+"textPlain": "1 Splash Egg White"
+},
+{
+"type": "berries",
+"id": "maraschino-berry",
+"text": "1 Whole [Maraschino Berry]",
+"textPlain": "1 Whole Maraschino Berry"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "whiskey-sour",
+"name": "Whiskey Sour",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled rocks glass filled with ice cubes. Garnish with a maraschino berry."
+}
+],
+"totalResult": 5
+}

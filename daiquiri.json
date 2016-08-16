@@ -1,0 +1,3049 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with blueberry.",
+"story": "",
+"color": "Purple",
+"rating": 56,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "IkvZEQD4zZs",
+"type": "youtube"
+},
+{
+"video": "blueberry-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/1",
+"name": "andreas"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Sour"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "6 Parts [Light Rum]",
+"textPlain": "6 Parts Light Rum"
+},
+{
+"type": "spirits-other",
+"id": "blueberry-liqueur",
+"text": "4 Parts [Blueberry Liqueur]",
+"textPlain": "4 Parts Blueberry Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "vanilla-syrup",
+"text": "1 Part [Vanilla Syrup]",
+"textPlain": "1 Part Vanilla Syrup"
+},
+{
+"type": "others",
+"id": "water",
+"text": "1 Part [Water]",
+"textPlain": "1 Part Water"
+},
+{
+"type": "berries",
+"id": "blueberry",
+"text": "3 On Cocktail Sticks [Blueberries]",
+"textPlain": "3 On Cocktail Sticks Blueberries"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "blueberry-daiquiri",
+"name": "Blueberry Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with blueberry."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lime and a strawberry.",
+"story": "",
+"color": "Yellow",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "zxqZeLe19BQ",
+"type": "youtube"
+},
+{
+"video": "virgin-strawberry-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_lowkey"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Hibiskus"
+},
+{
+"owner": "apps/1",
+"name": "howto_freeze"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "4 Parts [Lime Juice]",
+"textPlain": "4 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "others",
+"id": "water",
+"text": "1 Part [Water]",
+"textPlain": "1 Part Water"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "6 Whole [Strawberries]",
+"textPlain": "6 Whole Strawberries"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Slice [Lime]",
+"textPlain": "1 Slice Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "virgin-strawberry-daiquiri",
+"name": "Virgin Strawberry Daiquiri",
+"descriptionPlain": "Fill a blender with crushed ice. Add all ingredients. Blend and pour into a cocktail glass. Garnish with lime and a strawberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with honeydew melon and peach.",
+"story": "",
+"color": "Yellow",
+"rating": 45,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "uVki_Tqk5TE",
+"type": "youtube"
+},
+{
+"video": "melon-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "4 Parts [Light Rum]",
+"textPlain": "4 Parts Light Rum"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "melon-liqueur",
+"text": "1 Part [Melon Liqueur]",
+"textPlain": "1 Part Melon Liqueur"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+},
+{
+"type": "fruits",
+"id": "honeydew-melon",
+"text": "1 Slice [Honeydew Melon]",
+"textPlain": "1 Slice Honeydew Melon"
+},
+{
+"type": "fruits",
+"id": "peach",
+"text": "1 Slice [Peach]",
+"textPlain": "1 Slice Peach"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "melon-daiquiri",
+"name": "Melon Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with honeydew melon and peach."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with honeydew melon.",
+"story": "",
+"color": "Yellow",
+"rating": 34,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "x0NgVKsTYUU",
+"type": "youtube"
+},
+{
+"video": "melon-daiquiri-2.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "sake",
+"text": "2 Parts [Sake]",
+"textPlain": "2 Parts Sake"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "fruits",
+"id": "honeydew-melon",
+"text": "1 Slice [Honeydew Melon]",
+"textPlain": "1 Slice Honeydew Melon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "melon-daiquiri-2",
+"name": "Melon Daiquiri 2",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled cocktail glass. Garnish with honeydew melon."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Pink",
+"rating": 34,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "FUY0PFqFdho",
+"type": "youtube"
+},
+{
+"video": "royal-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "2 Parts [Light Rum]",
+"textPlain": "2 Parts Light Rum"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+},
+{
+"type": "spirits-other",
+"id": "violet-liqueur",
+"text": "1 Part [Violet Liqueur]",
+"textPlain": "1 Part Violet Liqueur"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "royal-daiquiri",
+"name": "Royal Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Brown",
+"rating": 48,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "wxwNRDh6Ahs",
+"type": "youtube"
+},
+{
+"video": "mulata-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "4 Parts [Aged Rum of Cuban Type]",
+"textPlain": "4 Parts Aged Rum of Cuban Type"
+},
+{
+"type": "spirits-other",
+"id": "white-cacao-liqueur",
+"text": "1 Part [White Cacao Liqueur]",
+"textPlain": "1 Part White Cacao Liqueur"
+},
+{
+"type": "spirits-other",
+"id": "dark-cacao-liqueur",
+"text": "1 Part [Dark Cacao Liqueur]",
+"textPlain": "1 Part Dark Cacao Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "¼ Part [Simple Syrup]",
+"textPlain": "¼ Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mulata-daiquiri",
+"name": "Mulata Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "n7zOL3oboIA",
+"type": "youtube"
+},
+{
+"video": "four-w-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "1 Part [Aged Rum of Cuban Type]",
+"textPlain": "1 Part Aged Rum of Cuban Type"
+},
+{
+"type": "mixers",
+"id": "grapefruit-juice",
+"text": "2 Parts [Grapefruit Juice]",
+"textPlain": "2 Parts Grapefruit Juice"
+},
+{
+"type": "mixers",
+"id": "maple-syrup",
+"text": "½ Part [Maple Syrup]",
+"textPlain": "½ Part Maple Syrup"
+},
+{
+"type": "spirits-other",
+"id": "bitters",
+"text": "2 Dashes [Bitters]",
+"textPlain": "2 Dashes Bitters"
+}
+],
+"tastes": [
+{
+"id": "bitter",
+"text": "Bitter"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "four-w-daiquiri",
+"name": "Four W Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Pink",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "-SMs_V1QsZQ",
+"type": "youtube"
+},
+{
+"video": "fruit-tree-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "2 Parts [Light Rum]",
+"textPlain": "2 Parts Light Rum"
+},
+{
+"type": "brandy",
+"id": "apricot-brandy",
+"text": "¾ Part [Apricot Brandy]",
+"textPlain": "¾ Part Apricot Brandy"
+},
+{
+"type": "mixers",
+"id": "grape-juice",
+"text": "2 Parts [Grape Juice]",
+"textPlain": "2 Parts Grape Juice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "maraschino-liqueur",
+"text": "¾ Part [Maraschino Liqueur]",
+"textPlain": "¾ Part Maraschino Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "fruit-tree-daiquiri",
+"name": "Fruit Tree Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Red",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "WUms66jA6nw",
+"type": "youtube"
+},
+{
+"video": "copabanana-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "spiced-rum",
+"text": "4 Parts [Spiced Rum]",
+"textPlain": "4 Parts Spiced Rum"
+},
+{
+"type": "mixers",
+"id": "raspberry-puree",
+"text": "3 Parts [Raspberry Puree]",
+"textPlain": "3 Parts Raspberry Puree"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "raspberry-liqueur",
+"text": "1 Part [Raspberry Liqueur]",
+"textPlain": "1 Part Raspberry Liqueur"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "[Simple Syrup] To Taste",
+"textPlain": "Simple Syrup To Taste"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "copabanana-daiquiri",
+"name": "Copabanana Daiquiri",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled cocktail glass."
+},
+{
+"description": "[Muddle|Action|muddle] [raspberries|Ingredient|raspberry], [brown sugar|Ingredient|brown-sugar] and [lime|Ingredient|lime] in a [rocks glass|Glass|rocks-glass]. [Fill|Action|fill] with [crushed ice|Ingredient|crushed-ice]. [Top up|Action|topup] with [pineapple juice|Ingredient|pineapple-juice]. [Stir|Action|stir]. [Garnish|Action|garnish] with a raspberry.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "d2JcgnlCb0M",
+"type": "youtube"
+},
+{
+"video": "virgin-raspberry-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+}
+],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "berries",
+"id": "raspberry",
+"text": "10 Whole [Raspberries]",
+"textPlain": "10 Whole Raspberries"
+},
+{
+"type": "others",
+"id": "brown-sugar",
+"text": "2 Teaspoons [Brown Sugar]",
+"textPlain": "2 Teaspoons Brown Sugar"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "2 Quarters [Lime]",
+"textPlain": "2 Quarters Lime"
+},
+{
+"type": "mixers",
+"id": "pineapple-juice",
+"text": "[Pineapple Juice]",
+"textPlain": "Pineapple Juice"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "muddler",
+"text": "Muddler"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "muddle",
+"text": "Muddle"
+},
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "topup",
+"text": "Top up"
+},
+{
+"id": "stir",
+"text": "Stir"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "virgin-raspberry-daiquiri",
+"name": "Virgin Raspberry Daiquiri",
+"descriptionPlain": "Muddle raspberries, brown sugar and lime in a rocks glass. Fill with crushed ice. Top up with pineapple juice. Stir. Garnish with a raspberry."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "jka_G_tq8qA",
+"type": "youtube"
+},
+{
+"video": "coxs-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "vanilla-rum",
+"text": "5 Parts [Vanilla Rum]",
+"textPlain": "5 Parts Vanilla Rum"
+},
+{
+"type": "mixers",
+"id": "pineapple-juice",
+"text": "2 Parts [Pineapple Juice]",
+"textPlain": "2 Parts Pineapple Juice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "vanilla-syrup",
+"text": "1 Splash [Vanilla Syrup]",
+"textPlain": "1 Splash Vanilla Syrup"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "coxs-daiquiri",
+"name": "Cox’s Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 40,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "ftfck_GVTdQ",
+"type": "youtube"
+},
+{
+"video": "cruzan-chocolate-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "4 Parts [Light Rum]",
+"textPlain": "4 Parts Light Rum"
+},
+{
+"type": "spirits-other",
+"id": "dark-cacao-liqueur",
+"text": "2 Parts [Dark Cacao Liqueur]",
+"textPlain": "2 Parts Dark Cacao Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "cruzan-chocolate-daiquiri",
+"name": "Cruzan Chocolate Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Clear",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "wui6oWuQpKw",
+"type": "youtube"
+},
+{
+"video": "fu-manchu-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "4 Parts [Light Rum]",
+"textPlain": "4 Parts Light Rum"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "2 Parts [Simple Syrup]",
+"textPlain": "2 Parts Simple Syrup"
+},
+{
+"type": "spirits-other",
+"id": "triple-sec",
+"text": "½ Part [Triple Sec]",
+"textPlain": "½ Part Triple Sec"
+},
+{
+"type": "spirits-other",
+"id": "white-cacao-liqueur",
+"text": "½ Part [White Cacao Liqueur]",
+"textPlain": "½ Part White Cacao Liqueur"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "fu-manchu-daiquiri",
+"name": "Fu Manchu Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [wine glass|Glass|wine-glass]. [Garnish|Action|garnish] with strawberries.",
+"story": "",
+"color": "Clear",
+"rating": 33,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "2f2u3qo5x_M",
+"type": "youtube"
+},
+{
+"video": "absolut-peppar-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "occ_partynight"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Peppar"
+},
+{
+"owner": "apps/1",
+"name": "howto_glass2"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-peppar",
+"text": "1 Part [Absolut Peppar]",
+"textPlain": "1 Part Absolut Peppar"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Dashes [Lime Juice]",
+"textPlain": "2 Dashes Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Dash [Simple Syrup]",
+"textPlain": "1 Dash Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "4 Whole [Strawberries]",
+"textPlain": "4 Whole Strawberries"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "spicy",
+"text": "Spicy"
+},
+{
+"id": "spirits-palpable",
+"text": "Spirits palpable"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-peppar-daiquiri",
+"name": "Absolut Peppar Daiquiri",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled wine glass. Garnish with strawberries."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Clear",
+"rating": 30,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "1RuADhvt7dE",
+"type": "youtube"
+},
+{
+"video": "chiclet-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "light-rum",
+"text": "5 Parts [Light Rum]",
+"textPlain": "5 Parts Light Rum"
+},
+{
+"type": "spirits-other",
+"id": "banana-liqueur",
+"text": "1 Part [Banana Liqueur]",
+"textPlain": "1 Part Banana Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "spirits-other",
+"id": "creme-de-menthe-white",
+"text": "2 Dashes [Crème De Menthe, White]",
+"textPlain": "2 Dashes Crème De Menthe, White"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Splash [Simple Syrup]",
+"textPlain": "1 Splash Simple Syrup"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "chiclet-daiquiri",
+"name": "Chiclet Daiquiri",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass].",
+"story": "",
+"color": "Brown",
+"rating": 44,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "mUo_ABnoaNc",
+"type": "youtube"
+},
+{
+"video": "bella-donna-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "dark-rum-of-jamaican-type",
+"text": "3 Parts [Dark Rum of Jamaican Type]",
+"textPlain": "3 Parts Dark Rum of Jamaican Type"
+},
+{
+"type": "spirits-other",
+"id": "amaretto",
+"text": "3 Parts [Amaretto]",
+"textPlain": "3 Parts Amaretto"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "1 Part [Lemon Juice]",
+"textPlain": "1 Part Lemon Juice"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "bella-donna-daiquiri",
+"name": "Bella Donna Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with mango and mint leaf.",
+"story": "",
+"color": "Yellow",
+"rating": 55,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "FQzxnGmRgxY",
+"type": "youtube"
+},
+{
+"video": "frozen-mango-and-mint-spiced-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "howto_freeze"
+},
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "spiced-rum",
+"text": "4 Parts [Spiced Rum]",
+"textPlain": "4 Parts Spiced Rum"
+},
+{
+"type": "mixers",
+"id": "mango-puree",
+"text": "3 Parts [Mango Puree]",
+"textPlain": "3 Parts Mango Puree"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "2 Parts [Lime Juice]",
+"textPlain": "2 Parts Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "mango",
+"text": "1 Slice [Mango]",
+"textPlain": "1 Slice Mango"
+},
+{
+"type": "spices-herbs",
+"id": "mint-leaf",
+"text": "1 Leaf [Mint Leaf]",
+"textPlain": "1 Leaf Mint Leaf"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-mango-and-mint-spiced-daiquiri",
+"name": "Frozen Mango And Mint Spiced Daiquiri",
+"descriptionPlain": "Fill a blender with ice cubes. Add all ingredients. Blend and pour into a chilled cocktail glass. Garnish with mango and mint leaf."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lime.",
+"story": "Another cocktail originating in Cuba in the early 20th century – and another mystery. Who drank history’s first Daiquiri? Was it the locals who frequented a beach called Daiquiri near Santiago, or was it a bunch of Americans working in a nearby iron mine? In either case, it’s likely that the first Daiquiris were made with ice shaved off big blocks as was the practice a century ago. In the 1920s the Daiquiri found a new (and historically reliable) champion in Constantino Ribalaigua, the bartender and later owner of Havana’s El Floridita bar who improved the original Daiquiri recipe by adding crushed ice and maraschino liqueur.\r\n",
+"color": "Brown",
+"rating": 100,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "RmktrRTVeKs",
+"type": "youtube"
+},
+{
+"video": "daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/1",
+"name": "howto_archeology"
+},
+{
+"owner": "apps/1",
+"name": "cat_popular_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top 50"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+},
+{
+"owner": "apps/1",
+"name": "cat_classic_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fancy_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_fency_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_Mardi_Gras_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_sophisticated_cocktails"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "2 Parts [Aged Rum of Cuban Type]",
+"textPlain": "2 Parts Aged Rum of Cuban Type"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "½ Part [Lime Juice]",
+"textPlain": "½ Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "½ Part [Simple Syrup]",
+"textPlain": "½ Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "daiquiri",
+"name": "Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [blender|Tool|blender] with [crushed ice|Ingredient|crushed-ice]. [Add|Action|add] all ingredients. [Blend|Action|blend] and [pour|Action|pour] into a [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with lime.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [
+{
+"video": "oCVJGb_ISfQ",
+"type": "youtube"
+},
+{
+"video": "frozen-daiquiri.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Rum"
+},
+{
+"owner": "apps/1",
+"name": "cat_caribean_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "crushed-ice",
+"text": "[Crushed Ice]",
+"textPlain": "Crushed Ice"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "2 Parts [Aged Rum of Cuban Type]",
+"textPlain": "2 Parts Aged Rum of Cuban Type"
+},
+{
+"type": "spirits-other",
+"id": "maraschino-liqueur",
+"text": "1 Part [Maraschino Liqueur]",
+"textPlain": "1 Part Maraschino Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "1 Part [Lime Juice]",
+"textPlain": "1 Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "1 Part [Simple Syrup]",
+"textPlain": "1 Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lime",
+"text": "1 Wedge [Lime]",
+"textPlain": "1 Wedge Lime"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "sour",
+"text": "Sour"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "blender",
+"text": "Blender"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "blend",
+"text": "Blend"
+},
+{
+"id": "pour",
+"text": "Pour"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "frozen-daiquiri",
+"name": "Frozen Daiquiri",
+"descriptionPlain": "Fill a blender with crushed ice. Add all ingredients. Blend and pour into a cocktail glass. Garnish with lime."
+},
+{
+"description": "[Fill|Action|fill] a [shaker|Tool|boston-shaker] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Shake|Action|shake] and [strain|Action|strain] into a chilled [cocktail glass|Glass|cocktail-glass]. [Garnish|Action|garnish] with strawberry.",
+"story": "The Strawberry Daiquiri is a rum-based cocktail made with lime and simple syrup. The Strawberry version of the popular Daiquiri is often frozen or should at least be served ice cold. The history says that the drink was created in Cuba and often served to strengthen business relationships. However, these days the cocktail mostly enjoyed to beat the heat on a warm summer's day.",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "average",
+"name": "Average",
+"value": 2
+},
+"videos": [],
+"isAlcoholic": true,
+"isCarbonated": false,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_frozen_cocktail"
+},
+{
+"owner": "apps/1",
+"name": "cat_red_and_blue_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "cocktail-glass",
+"text": "Cocktail Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "rum",
+"id": "aged-rum-of-cuban-type",
+"text": "2 Parts [Aged Rum of Cuban Type]",
+"textPlain": "2 Parts Aged Rum of Cuban Type"
+},
+{
+"type": "spirits-other",
+"id": "strawberry-liqueur",
+"text": "1 Part [Strawberry Liqueur]",
+"textPlain": "1 Part Strawberry Liqueur"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "½ Part [Lime Juice]",
+"textPlain": "½ Part Lime Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "½ Part [Simple Syrup]",
+"textPlain": "½ Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "strawberry",
+"text": "1 Wedge [Strawberry]",
+"textPlain": "1 Wedge Strawberry"
+}
+],
+"tastes": [
+{
+"id": "berry",
+"text": "Berry"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+},
+{
+"id": "strainer",
+"text": "Strainer"
+},
+{
+"id": "boston-shaker",
+"text": "Boston Shaker"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "shake",
+"text": "Shake"
+},
+{
+"id": "strain",
+"text": "Strain"
+},
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "strawberry-daiquiri",
+"name": "Strawberry Daiquiri",
+"descriptionPlain": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with strawberry."
+}
+],
+"totalResult": 20
+}

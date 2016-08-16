@@ -1,0 +1,442 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [wine glass|Glass|wine-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with lemon, orange and apple. [Stir|Action|stir].",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "advanced",
+"name": "Advanced",
+"value": 3
+},
+"videos": [
+{
+"video": "56KWmxxRESI",
+"type": "youtube"
+},
+{
+"video": "virgin-sangria.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": false,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Grapevine"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "mixers",
+"id": "grape-juice",
+"text": "4 Parts [Grape Juice]",
+"textPlain": "4 Parts Grape Juice"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "2 Parts [Soda Water]",
+"textPlain": "2 Parts Soda Water"
+},
+{
+"type": "mixers",
+"id": "apple-juice-fresh-pressed",
+"text": "1 Part [Apple Juice, Fresh Pressed]",
+"textPlain": "1 Part Apple Juice, Fresh Pressed"
+},
+{
+"type": "mixers",
+"id": "orange-juice",
+"text": "1 Part [Orange Juice]",
+"textPlain": "1 Part Orange Juice"
+},
+{
+"type": "mixers",
+"id": "lemon-juice",
+"text": "½ Part [Lemon Juice]",
+"textPlain": "½ Part Lemon Juice"
+},
+{
+"type": "mixers",
+"id": "simple-syrup",
+"text": "½ Part [Simple Syrup]",
+"textPlain": "½ Part Simple Syrup"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Slice [Lemon]",
+"textPlain": "1 Slice Lemon"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Slice [Orange]",
+"textPlain": "1 Slice Orange"
+},
+{
+"type": "fruits",
+"id": "apple",
+"text": "1 Slice [Apple]",
+"textPlain": "1 Slice Apple"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "after-dinner",
+"text": "After-Dinner Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "virgin-sangria",
+"name": "Virgin Sangria",
+"descriptionPlain": "Fill a wine glass with ice cubes. Add all ingredients. Garnish with lemon, orange and apple. Stir."
+},
+{
+"description": "[Fill|Action|fill] a [wine glass|Glass|wine-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Garnish|Action|garnish] with orange.",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "98m3IT-Ovs0",
+"type": "youtube"
+},
+{
+"video": "absolut-sangria-rosada.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/225",
+"name": "drinkspiration"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Cilantro"
+},
+{
+"owner": "apps/1",
+"name": "howto_glass2"
+},
+{
+"owner": "apps/225",
+"name": "Coll_Party"
+},
+{
+"owner": "apps/1",
+"name": "cat_summer_cocktails"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "vodka",
+"id": "absolut-cilantro",
+"text": "2 Parts [Absolut Cilantro]",
+"textPlain": "2 Parts Absolut Cilantro"
+},
+{
+"type": "spirits-other",
+"id": "sparkling-wine",
+"text": "2 Parts [Sparkling Wine]",
+"textPlain": "2 Parts Sparkling Wine"
+},
+{
+"type": "mixers",
+"id": "pomegranate-juice",
+"text": "2 Parts [Pomegranate Juice]",
+"textPlain": "2 Parts Pomegranate Juice"
+},
+{
+"type": "mixers",
+"id": "lime-juice",
+"text": "½ Part [Lime Juice]",
+"textPlain": "½ Part Lime Juice"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "1 Wheel [Orange]",
+"textPlain": "1 Wheel Orange"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "citrus-press",
+"text": "Citrus press"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "absolut-sangria-rosada",
+"name": "Absolut Sangria Rosada",
+"descriptionPlain": "Fill a wine glass with ice cubes. Add all ingredients. Garnish with orange."
+},
+{
+"description": "[Fill|Action|fill] a [wine glass|Glass|wine-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients. [Stir|Action|stir].",
+"story": "",
+"color": "Red",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [
+{
+"owner": "apps/1",
+"name": "cat_beach_cocktails"
+},
+{
+"owner": "apps/1",
+"name": "cat_spanish_cocktails"
+},
+{
+"owner": "apps/7137",
+"name": "top_50"
+}
+],
+"servedIn": {
+"id": "wine-glass",
+"text": "Wine Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "brandy",
+"id": "brandy",
+"text": "½ Part [Brandy]",
+"textPlain": "½ Part Brandy"
+},
+{
+"type": "spirits-other",
+"id": "red-wine",
+"text": "2 Parts [Red Wine]",
+"textPlain": "2 Parts Red Wine"
+},
+{
+"type": "mixers",
+"id": "soda-water",
+"text": "2 Parts [Soda Water]",
+"textPlain": "2 Parts Soda Water"
+},
+{
+"type": "spirits-other",
+"id": "orange-liqueur",
+"text": "¼ Part [Orange Liqueur]",
+"textPlain": "¼ Part Orange Liqueur"
+},
+{
+"type": "fruits",
+"id": "orange",
+"text": "2 Slices [Orange]",
+"textPlain": "2 Slices Orange"
+},
+{
+"type": "fruits",
+"id": "apple",
+"text": "2 Slices [Apple]",
+"textPlain": "2 Slices Apple"
+}
+],
+"tastes": [
+{
+"id": "fruity",
+"text": "Fruity"
+},
+{
+"id": "fresh",
+"text": "Fresh"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "pre-dinner",
+"text": "Pre-Dinner Drinks"
+}
+],
+"tools": [
+{
+"id": "barspoon",
+"text": "Barspoon"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "stir",
+"text": "Stir"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "sangria",
+"name": "Sangria",
+"descriptionPlain": "Fill a wine glass with ice cubes. Add all ingredients. Stir."
+}
+],
+"totalResult": 3
+}

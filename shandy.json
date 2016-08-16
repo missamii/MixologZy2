@@ -1,0 +1,200 @@
+{
+"result": [
+{
+"description": "[Fill|Action|fill] a [highball glass|Glass|highball-glass] with [ice cubes|Ingredient|ice-cubes]. [Add|Action|add] all ingredients.",
+"story": "",
+"color": "Brown",
+"rating": 20,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [
+{
+"video": "J34F0Cp34Tw",
+"type": "youtube"
+},
+{
+"video": "shandy-gaff.mp4",
+"type": "assets"
+}
+],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "highball-glass",
+"text": "Highball Glass"
+},
+"ingredients": [
+{
+"type": "ice",
+"id": "ice-cubes",
+"text": "[Ice Cubes]",
+"textPlain": "Ice Cubes"
+},
+{
+"type": "spirits-other",
+"id": "ale",
+"text": "1 Part [Ale]",
+"textPlain": "1 Part Ale"
+},
+{
+"type": "mixers",
+"id": "ginger-ale",
+"text": "1 Part [Ginger Ale]",
+"textPlain": "1 Part Ginger Ale"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "herb",
+"text": "Herb"
+},
+{
+"id": "sweet",
+"text": "Sweet"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+}
+],
+"tools": [
+{
+"id": "jigger",
+"text": "Jigger"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "fill",
+"text": "Fill"
+},
+{
+"id": "add",
+"text": "Add"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "shandy-gaff",
+"name": "Shandy Gaff",
+"descriptionPlain": "Fill a highball glass with ice cubes. Add all ingredients."
+},
+{
+"description": "[Add|Action|add] all ingredients into a chilled [rocks glass|Glass|rocks-glass]. [Garnish|Action|garnish] with lemon.",
+"story": "",
+"color": "Brown",
+"rating": 50,
+"skill": {
+"id": "easy",
+"name": "Easy",
+"value": 1
+},
+"videos": [],
+"isAlcoholic": true,
+"isCarbonated": true,
+"isHot": false,
+"tags": [],
+"servedIn": {
+"id": "rocks-glass",
+"text": "Rocks Glass"
+},
+"ingredients": [
+{
+"type": "vodka",
+"id": "absolut-mandrin",
+"text": "1 Part [Absolut Mandrin]",
+"textPlain": "1 Part Absolut Mandrin"
+},
+{
+"type": "spirits-other",
+"id": "beer",
+"text": "4 Parts [Beer]",
+"textPlain": "4 Parts Beer"
+},
+{
+"type": "mixers",
+"id": "lemonade",
+"text": "4 Parts [Lemonade]",
+"textPlain": "4 Parts Lemonade"
+},
+{
+"type": "fruits",
+"id": "lemon",
+"text": "1 Wedge [Lemon]",
+"textPlain": "1 Wedge Lemon"
+}
+],
+"tastes": [
+{
+"id": "fresh",
+"text": "Fresh"
+},
+{
+"id": "fruity",
+"text": "Fruity"
+}
+],
+"occasions": [
+{
+"id": "afternoon",
+"text": "Afternoon Drinks"
+},
+{
+"id": "evening",
+"text": "Evening Drinks"
+}
+],
+"tools": [
+{
+"id": "freezer",
+"text": "Freezer"
+},
+{
+"id": "jigger",
+"text": "Jigger"
+},
+{
+"id": "knife",
+"text": "Knife"
+}
+],
+"drinkTypes": [],
+"actions": [
+{
+"id": "chill",
+"text": "Chill"
+},
+{
+"id": "add",
+"text": "Add"
+},
+{
+"id": "garnish",
+"text": "Garnish"
+}
+],
+"brands": [
+"absolut"
+],
+"languageBranch": "en",
+"id": "mandy-shandy",
+"name": "Mandy Shandy",
+"descriptionPlain": "Add all ingredients into a chilled rocks glass. Garnish with lemon."
+}
+],
+"totalResult": 2
+}
